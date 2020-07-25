@@ -11,7 +11,8 @@ function hamilton() {
   results=$(curl -s https://www.formula1.com/en/results.html/$(date +%Y)/races.html)
   gp=$(echo "$results" | nokogiri -e 'puts $_.at_xpath("//table[@class=\"resultsarchive-table\"]/tbody/tr[last()]/td[2]/a").text.strip' 2>/dev/null)
   date=$(echo "$results" | nokogiri -e 'puts $_.at_xpath("//table[@class=\"resultsarchive-table\"]/tbody/tr[last()]/td[3]").text' 2>/dev/null)
-  winner=$(echo "$results" | nokogiri -e 'puts $_.at_xpath("//table[@class=\"resultsarchive-table\"]/tbody/tr[last()]/td[4]/span[2]").text' 2>/dev/null | tr 'A-Z' 'a-z')  echo -e "Did Hamilton win?\n${gp}: ${date}\n"
+  winner=$(echo "$results" | nokogiri -e 'puts $_.at_xpath("//table[@class=\"resultsarchive-table\"]/tbody/tr[last()]/td[4]/span[2]").text' 2>/dev/null | tr 'A-Z' 'a-z')
+  echo -e "Did Hamilton win?\n${gp}: ${date}\n"
   if [ "$winner" == "hamilton" ]; then
     echo "YES. I'm guessing Ferrari botched team orders, and Williams probably came last."
   else
