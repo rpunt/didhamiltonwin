@@ -1,3 +1,3 @@
-# NO.
+# YES.
 
-#### ANYTHING IS POSSIBLE. REVEL IN THE UNPREDICTABLITY OF LIFE.
+#### I'm guessing Ferrari botched team orders, and Williams probably came last.
