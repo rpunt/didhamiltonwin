@@ -26,6 +26,9 @@ But how to get that result if I'm away from home? Simple: have a Raspberry Pi do
 ```bash
 #!/bin/bash
 
+# possilbe to replace with a curl to http://ergast.com/api/f1/$(date +%Y)/last/drivers/hamilton/results.json ?
+# not sure about the update schedule though
+
 command -v nokogiri 1>/dev/null 2>&1 || { echo >&2 "I require nokogiri but it's not installed. apt install ruby-nokogiri"; exit 1; }
 
 pushd ~/dev/didhamiltonwin/ 1>/dev/null 2>&1
@@ -39,9 +42,9 @@ winner=$(echo "$results" | nokogiri -e 'puts $_.at_xpath("//table[@class=\"resul
 echo "GP: ${gp}"
 echo "Winner: ${winner}"
 if [ "$winner" == "hamilton" ]; then
-  echo -e "# YES.\n\n#### I'm guessing Ferrari botched team orders, and Williams probably came last." >index.md
+  echo -e "# YES." >index.md
 else
-  echo -e "# NO.\n\n#### ANYTHING IS POSSIBLE. REVEL IN THE UNPREDICTABLITY OF LIFE." >index.md
+  echo -e "# NO." >index.md
 fi
 
 sed -i'' -e "s/description.*/description: \"${gp}: ${date}\"/g" _config.yml
