@@ -13,21 +13,24 @@ results=$(curl -s https://www.formula1.com/en/results.html/$(date +%Y)/races.htm
 gp=$(echo "$results" | nokogiri -e 'puts $_.at_xpath("//table[@class=\"resultsarchive-table\"]/tbody/tr[last()]/td[2]/a").text.strip' 2>/dev/null)
 date=$(echo "$results" | nokogiri -e 'puts $_.at_xpath("//table[@class=\"resultsarchive-table\"]/tbody/tr[last()]/td[3]").text' 2>/dev/null)
 winner=$(echo "$results" | nokogiri -e 'puts $_.at_xpath("//table[@class=\"resultsarchive-table\"]/tbody/tr[last()]/td[4]/span[2]").text' 2>/dev/null | tr 'A-Z' 'a-z')
-echo "GP: ${gp}"
-echo "Winner: ${winner}"
+
 if [ "$winner" == "hamilton" ]; then
-  echo -e "# YES." >index.md
+  answer="YES"
 else
-  echo -e "# NO." >index.md
+  answer="NO"
 fi
+
+echo "GP:       ${gp}, ${date}"
+echo "Hamilton? ${answer}"
+echo -e "# ${answer}." >index.md
 
 sed -i'' -e "s/description.*/description: \"${gp}: ${date}\"/g" _config.yml
 
-if [[ $(git status --porcelain | wc -l) -gt 0 ]]; then
-  git add .
-  git commit -m "updating for ${gp}: ${date}"
-  git push origin master
-fi
+#if [[ $(git status --porcelain | wc -l) -gt 0 ]]; then
+#  git add .
+#  git commit -m "updating for ${gp}: ${date}"
+#  git push origin master
+#fi
 
 popd 1>/dev/null 2>&1
 
