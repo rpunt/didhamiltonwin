@@ -38,12 +38,106 @@ Got API key from the source of [the results page](https://www.formula1.com/en/re
 
 ## API Results
 
-### Pre-race, event tracker
+### Event Tracker
 
 ```bash
 curl -s https://api.formula1.com/v1/event-tracker -H "apikey: qPgPPRJyGCIPxFT3el4MF7thXHyJCzAP" -H "locale: en"
 # curl -s https://api.formula1.com/v1/event-tracker -H "apikey: qPgPPRJyGCIPxFT3el4MF7thXHyJCzAP" -H "locale: en" | jq '.seasonContext.timetables[] | select(.description == "Race")'
 ```
+
+#### Pre-race
+
+```json
+{
+    "raceHubId": "5OEc3LgWfOzpQXNf7jVD51",
+    "locale": "en",
+    "createdAt": "2021-03-09T14:33:44.399Z",
+    "updatedAt": "2021-04-16T14:43:15.550Z",
+    "fomRaceId": "1066",
+    "brandColourHexadecimal": "ee0000",
+    "circuitSmallImage": {
+        "title": "Portugal.png",
+        "path": "/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Portugal.png",
+        "url": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Portugal.png"
+    },
+    "links": [],
+    "seasonContext": {
+        "id": "4kUSabodBuSKy8I2ce68iW",
+        "contentType": "f1SeasonContext",
+        "createdAt": "2018-05-24T08:30:54.749Z",
+        "updatedAt": "2021-04-19T14:01:15.153Z",
+        "locale": "en",
+        "seasonYear": "2021",
+        "currentOrNextMeetingKey": "1066",
+        "state": "IDLE",
+        "eventState": "IDLE",
+        "liveEventId": "1087",
+        "liveTimingsSource": "https://livetiming.formula1.com/signalr",
+        "liveBlog": {
+            "contentType": "atomLiveBlogScribbleLive",
+            "title": "Emilia Romagna 2021 Race",
+            "scribbleEventId": "/event/2954409/37480"
+        },
+        "seasonState": "DURING-SEASON",
+        "raceListingOverride": 2021,
+        "driverAndTeamListingOverride": 2021,
+        "timetables": [
+            {
+                "state": "upcoming",
+                "session": "p3",
+                "gmtOffset": "+01:00",
+                "description": "Practice 3",
+                "endTime": "2021-05-01T13:00:00",
+                "startTime": "2021-05-01T12:00:00"
+            },
+            {
+                "state": "upcoming",
+                "session": "p2",
+                "gmtOffset": "+01:00",
+                "description": "Practice 2",
+                "endTime": "2021-04-30T16:00:00",
+                "startTime": "2021-04-30T15:00:00"
+            },
+            {
+                "state": "upcoming",
+                "session": "r",
+                "gmtOffset": "+01:00",
+                "description": "Race",
+                "endTime": "2021-05-02T17:00:00",
+                "startTime": "2021-05-02T15:00:00"
+            },
+            {
+                "state": "upcoming",
+                "session": "p1",
+                "gmtOffset": "+01:00",
+                "description": "Practice 1",
+                "endTime": "2021-04-30T12:30:00",
+                "startTime": "2021-04-30T11:30:00"
+            },
+            {
+                "state": "upcoming",
+                "session": "q",
+                "gmtOffset": "+01:00",
+                "description": "Qualifying",
+                "endTime": "2021-05-01T16:00:00",
+                "startTime": "2021-05-01T15:00:00"
+            }
+        ],
+        "replayBaseUrl": "https://livetiming.formula1.com/static/",
+        "seasonContextUIState": 5
+    },
+    "raceResults": [],
+    "race": {
+        "meetingCountryName": "Portugal",
+        "meetingStartDate": "2021-04-30T11:55:00.000Z",
+        "meetingOfficialName": "Formula 1 Heineken Grande Prémio De Portugal 2021",
+        "meetingEndDate": "2021-05-02T16:00:00.000Z"
+    },
+    "seasonYearImage": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/year%20icon/2021.png"
+}
+```
+
+#### Race Started
 
 ```json
 {
@@ -163,11 +257,82 @@ curl -s https://api.formula1.com/v1/event-tracker -H "apikey: qPgPPRJyGCIPxFT3el
 }
 ```
 
-### In-race, season context
+### Season Context
 
 ```bash
 curl -s https://api.formula1.com/v1/context/season -H "apikey: qPgPPRJyGCIPxFT3el4MF7thXHyJCzAP" -H "locale: en" | jq
 ```
+
+#### Pre-race
+
+```json
+{
+    "id": "4kUSabodBuSKy8I2ce68iW",
+    "contentType": "f1SeasonContext",
+    "createdAt": "2018-05-24T08:30:54.749Z",
+    "updatedAt": "2021-04-19T14:01:15.153Z",
+    "locale": "en",
+    "seasonYear": "2021",
+    "currentOrNextMeetingKey": "1066",
+    "state": "IDLE",
+    "eventState": "IDLE",
+    "liveEventId": "1087",
+    "liveTimingsSource": "https://livetiming.formula1.com/signalr",
+    "liveBlog": {
+        "contentType": "atomLiveBlogScribbleLive",
+        "title": "Emilia Romagna 2021 Race",
+        "scribbleEventId": "/event/2954409/37480"
+    },
+    "seasonState": "DURING-SEASON",
+    "raceListingOverride": 2021,
+    "driverAndTeamListingOverride": 2021,
+    "timetables": [
+        {
+            "state": "upcoming",
+            "session": "p3",
+            "gmtOffset": "+01:00",
+            "description": "Practice 3",
+            "endTime": "2021-05-01T13:00:00",
+            "startTime": "2021-05-01T12:00:00"
+        },
+        {
+            "state": "upcoming",
+            "session": "p2",
+            "gmtOffset": "+01:00",
+            "description": "Practice 2",
+            "endTime": "2021-04-30T16:00:00",
+            "startTime": "2021-04-30T15:00:00"
+        },
+        {
+            "state": "upcoming",
+            "session": "r",
+            "gmtOffset": "+01:00",
+            "description": "Race",
+            "endTime": "2021-05-02T17:00:00",
+            "startTime": "2021-05-02T15:00:00"
+        },
+        {
+            "state": "upcoming",
+            "session": "p1",
+            "gmtOffset": "+01:00",
+            "description": "Practice 1",
+            "endTime": "2021-04-30T12:30:00",
+            "startTime": "2021-04-30T11:30:00"
+        },
+        {
+            "state": "upcoming",
+            "session": "q",
+            "gmtOffset": "+01:00",
+            "description": "Qualifying",
+            "endTime": "2021-05-01T16:00:00",
+            "startTime": "2021-05-01T15:00:00"
+        }
+    ],
+    "replayBaseUrl": "https://livetiming.formula1.com/static/",
+    "seasonContextUIState": 5
+}
+```
+#### Race Started
 
 ```json
 {
