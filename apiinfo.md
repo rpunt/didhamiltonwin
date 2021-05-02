@@ -42,7 +42,14 @@ Got API key from the source of [the results page](https://www.formula1.com/en/re
 
 ```bash
 curl -s https://api.formula1.com/v1/event-tracker -H "apikey: qPgPPRJyGCIPxFT3el4MF7thXHyJCzAP" -H "locale: en"
-# curl -s https://api.formula1.com/v1/event-tracker -H "apikey: qPgPPRJyGCIPxFT3el4MF7thXHyJCzAP" -H "locale: en" | jq '.seasonContext.timetables[] | select(.description == "Race")'
+# results=$(curl -s https://api.formula1.com/v1/event-tracker -H "apikey: qPgPPRJyGCIPxFT3el4MF7thXHyJCzAP" -H "locale: en")
+# # $ echo $results | jq '.seasonContext.state'
+# # "POST-RACE"
+# # $ echo $results | jq '.seasonContext.eventState'
+# # "IDLE"
+# if [ $(echo $results | jq -r '.seasonContext.timetables[] | select(.description == "Race") | .state') == 'completed' ]; then
+#   echo $results | jq -r '.raceResults[] | select(.positionNumber == "1") | .driverTLA'
+# fi
 ```
 
 #### Pre-race
