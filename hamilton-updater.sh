@@ -9,6 +9,11 @@ pushd ~/dev/didhamiltonwin/ 1>/dev/null 2>&1
 git checkout master 1>/dev/null 2>&1
 git pull  1>/dev/null 2>&1
 
+# curl -s https://api.formula1.com/v1/context/season -H "apikey: qPgPPRJyGCIPxFT3el4MF7thXHyJCzAP" -H "locale: en" | jq -r '.timetables[] | select (.description=="Race") | .state'
+# upcoming
+# started
+# completed
+
 results=$(curl -s https://www.formula1.com/en/results.html/$(date +%Y)/races.html)
 gp=$(echo "$results" | nokogiri -e 'puts $_.at_xpath("//table[@class=\"resultsarchive-table\"]/tbody/tr[last()]/td[2]/a").text.strip' 2>/dev/null)
 date=$(echo "$results" | nokogiri -e 'puts $_.at_xpath("//table[@class=\"resultsarchive-table\"]/tbody/tr[last()]/td[3]").text' 2>/dev/null)
