@@ -245,7 +245,7 @@ end
 
 g = Git.open(ENV['PWD'])
 if g.status.changed.count > 0
-  #   git add .
-  #   git commit -m "updating for ${gp}: ${date}"
-  #   git push origin master
+  g.add(:all=>true)
+  g.commit_all("updating for ${gp}: ${date}; #{raceinfo['state']}")
+  g.push
 end
