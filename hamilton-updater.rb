@@ -41,6 +41,6 @@ end
 
 if g.status.changed.count > 0
   g.add(:all=>true)
-  g.commit_all("updating for #{race_status['race']['meetingCountryName']}: #{raceStart.strftime("%d %B %Y")}; #{raceinfo['state']}")
+  g.commit_all("updating for #{race_status['race']['meetingCountryName']}: #{raceStart.strftime("%d %B %Y")}; race #{raceinfo['state']}")
   g.push
 end
