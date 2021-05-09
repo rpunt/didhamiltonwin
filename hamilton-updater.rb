@@ -39,8 +39,8 @@ when 'completed'
   File.write("#{__dir__}/index.md", "# #{answer}.")
 end
 
-#if g.status.changed.count > 0
-#  g.add(:all=>true)
-#  g.commit_all("updating for #{race_status['race']['meetingCountryName']}: #{raceStart.strftime("%d %B %Y")}; #{raceinfo['state']}")
-#  g.push
-#end
+if g.status.changed.count > 0
+  g.add(:all=>true)
+  g.commit_all("updating for #{race_status['race']['meetingCountryName']}: #{raceStart.strftime("%d %B %Y")}; #{raceinfo['state']}")
+  g.push
+end
