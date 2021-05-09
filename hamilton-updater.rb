@@ -39,6 +39,6 @@ end
 g = Git.open(__dir__)
 if g.status.changed.count > 0
   g.add(:all=>true)
-  g.commit_all("updating for ${gp}: ${date}; #{raceinfo['state']}")
+  g.commit_all("updating for #{race_status['race']['meetingCountryName']}: #{raceStart.strftime("%d %B %Y")}; #{raceinfo['state']}")
   g.push
 end
