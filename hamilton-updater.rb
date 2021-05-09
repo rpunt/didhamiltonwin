@@ -241,11 +241,10 @@ when 'completed'
   File.write('index.md', "# #{answer}.")
 end
 
-require 'pry'; binding.pry
+# require 'pry'; binding.pry
 
-g = Git.open('.')
+g = Git.open(ENV['PWD'])
 if g.status.changed.count > 0
-  puts "I have changed files"
   #   git add .
   #   git commit -m "updating for ${gp}: ${date}"
   #   git push origin master
