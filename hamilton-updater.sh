@@ -5,6 +5,10 @@
 
 command -v nokogiri 1>/dev/null 2>&1 || { echo >&2 "I require nokogiri but it's not installed. apt install ruby-nokogiri"; exit 1; }
 
+pushd ~/dev/didhamiltonwin/ 1>/dev/null 2>&1
+git checkout master 1>/dev/null 2>&1
+git pull  1>/dev/null 2>&1
+
 # curl -s https://api.formula1.com/v1/context/season -H "apikey: qPgPPRJyGCIPxFT3el4MF7thXHyJCzAP" -H "locale: en" | jq -r '.timetables[] | select (.description=="Race") | .state'
 # upcoming
 # started
