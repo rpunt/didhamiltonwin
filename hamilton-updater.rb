@@ -29,7 +29,6 @@ File.write("#{__dir__}/_config.yml", config.to_yaml)
 
 case raceinfo['state']
 when 'upcoming'
-  puts "race hasn't started yet"
   File.write("#{__dir__}/index.md", "# Race hasn't started yet")
 when 'started'
   File.write("#{__dir__}/index.md", '# Racing now')
