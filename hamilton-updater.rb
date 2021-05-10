@@ -35,7 +35,7 @@ when 'started'
 when 'completed'
   winner = race_status['raceResults'].select{|hash| hash['positionNumber'] == '1' }.first
   answer = winner['driverLastName'].downcase == 'hamilton' ? 'YES' : 'NO'
-  File.write("#{__dir__}/index.md", "# #{answer}.")
+  File.write("#{__dir__}/index.md", "# #{answer}")
 end
 
 if g.status.changed.count > 0
