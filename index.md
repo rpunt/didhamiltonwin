@@ -1,1 +1,1 @@
-# YES.
+# Race hasn't started yet
