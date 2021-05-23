@@ -2,7 +2,6 @@
 title: Did Hamilton win?
 description: 'Monaco: 23 May 2021'
 google_analytics:
-show_footer: false
 show_downloads: false
 theme: jekyll-theme-minimal
 gems:
