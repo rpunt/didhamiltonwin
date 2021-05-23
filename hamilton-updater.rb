@@ -29,9 +29,9 @@ File.write("#{__dir__}/_config.yml", config.to_yaml)
 
 case raceinfo['state']
 when 'upcoming'
-  File.write("#{__dir__}/index.md", "# Race hasn't started yet")
+  File.write("#{__dir__}/index.md", "# The race hasn't started yet")
 when 'started'
-  File.write("#{__dir__}/index.md", '# Racing now')
+  File.write("#{__dir__}/index.md", '# They\'re Racing now')
 when 'completed'
   winner = race_status['raceResults'].select{|hash| hash['positionNumber'] == '1' }.first
   answer = winner['driverLastName'].downcase == 'hamilton' ? 'YES' : 'NO'
