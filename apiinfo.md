@@ -477,7 +477,7 @@ curl -s https://api.formula1.com/v1/event-tracker -H "apikey: qPgPPRJyGCIPxFT3el
 curl -s https://api.formula1.com/v1/context/season -H "apikey: qPgPPRJyGCIPxFT3el4MF7thXHyJCzAP" -H "locale: en" | jq
 ```
 
-#### Pre-race
+#### Season Context Pre-race
 
 ```json
 {
@@ -546,7 +546,8 @@ curl -s https://api.formula1.com/v1/context/season -H "apikey: qPgPPRJyGCIPxFT3e
     "seasonContextUIState": 5
 }
 ```
-#### Race Started
+
+#### Season Context Race Started
 
 ```json
 {
@@ -616,7 +617,7 @@ curl -s https://api.formula1.com/v1/context/season -H "apikey: qPgPPRJyGCIPxFT3e
 }
 ```
 
-#### Race Complete
+#### Season Context Race Complete
 
 ```json
 {
