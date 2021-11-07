@@ -7,7 +7,7 @@ g = Git.open(__dir__)
 g.pull
 
 headers = {
-  'apikey' => 'qPgPPRJyGCIPxFT3el4MF7thXHyJCzAP',
+  'apiKey' => 'qPgPPRJyGCIPxFT3el4MF7thXHyJCzAP',
   'locale' => 'en'
 }
 
