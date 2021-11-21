@@ -4,7 +4,8 @@ require 'httparty'
 require 'git'
 
 g = Git.open(__dir__)
-g.pull
+g.checkout('main')
+#g.pull
 
 headers = {
   'apiKey' => 'qPgPPRJyGCIPxFT3el4MF7thXHyJCzAP',
