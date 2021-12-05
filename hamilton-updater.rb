@@ -3,7 +3,7 @@
 require 'httparty'
 require 'git'
 
-branch = 'master'
+branch = 'main'
 
 g = Git.open(__dir__)
 g.checkout(branch)
