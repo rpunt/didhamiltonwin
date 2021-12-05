@@ -13,6 +13,8 @@ git pull  1>/dev/null 2>&1
 # upcoming
 # started
 # completed
+# 
+# curl -s https://api.formula1.com/v1/event-tracker -H "apikey: qPgPPRJyGCIPxFT3el4MF7thXHyJCzAP" -H "locale: en"
 
 results=$(curl -s https://www.formula1.com/en/results.html/$(date +%Y)/races.html)
 gp=$(echo "$results" | nokogiri -e 'puts $_.at_xpath("//table[@class=\"resultsarchive-table\"]/tbody/tr[last()]/td[2]/a").text.strip' 2>/dev/null)
