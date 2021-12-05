@@ -41,7 +41,7 @@ when 'completed'
   File.write("#{__dir__}/index.md", "# #{answer}")
 end
 
-File.write("#{__dir__}/api_results/#{Time.now.strftime('%Y%m%d-%H%M%S')}.json", response.body)
+File.write("#{__dir__}/api_results/#{Time.now.strftime('%Y%m%d-%H%M%S')}.json", JSON.pretty_generate(race_status))
 
 if g.status.changed.count > 0
   g.add(:all=>true)
