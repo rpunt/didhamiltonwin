@@ -4,7 +4,7 @@ require 'httparty'
 require 'git'
 
 g = Git.open(__dir__)
-g.checkout('main')
+g.checkout('master')
 #g.pull
 
 headers = {
