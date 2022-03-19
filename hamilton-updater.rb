@@ -35,9 +35,6 @@ config = YAML.load_file("#{__dir__}/_config.yml")
 config['description'] = "#{race_status['race']['meetingCountryName']}: #{raceStart.strftime("%d %B %Y")}"
 config['quali_time'] = qualiStart.strftime("%H:%M GMT")
 config['race_time'] = raceStart.strftime("%H:%M GMT")
-
-binding.pry
-
 File.write("#{__dir__}/_config.yml", config.to_yaml)
 
 case raceinfo['state']
