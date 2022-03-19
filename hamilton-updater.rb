@@ -26,7 +26,7 @@ race_status = JSON.parse(response.body)
 qualiInfo = race_status['seasonContext']['timetables'].select{|hash| hash['description'] == 'Qualifying' }.first
 raceinfo = race_status['seasonContext']['timetables'].select{|hash| hash['description'] == 'Race' }.first
 
-# require 'pry'; binding.pry
+require 'pry'; binding.pry
 
 qualiStart = Time.parse("#{qualiInfo['startTime']} #{qualiInfo['gmtOffset']}").utc
 raceStart = Time.parse("#{raceinfo['startTime']} #{raceinfo['gmtOffset']}").utc
@@ -36,7 +36,7 @@ config['description'] = "#{race_status['race']['meetingCountryName']}: #{raceSta
 config['quali_time'] = qualiStart.strftime("%H:%M GMT")
 config['race_time'] = raceStart.strftime("%H:%M GMT")
 
-# binding.pry
+binding.pry
 
 File.write("#{__dir__}/_config.yml", config.to_yaml)
 
