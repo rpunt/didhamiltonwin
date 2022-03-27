@@ -1,1 +1,1 @@
-# The race hasn't started yet
+# They're Racing now
