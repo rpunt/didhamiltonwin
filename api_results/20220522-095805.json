@@ -1,0 +1,213 @@
+{
+  "raceHubId": "55K7zRTdO6mJf3D3VQ1kTU",
+  "locale": "en",
+  "createdAt": "2021-12-15T16:25:06.848Z",
+  "updatedAt": "2022-05-22T14:54:43.772Z",
+  "fomRaceId": "1111",
+  "brandColourHexadecimal": "ee0000",
+  "headline": "Victory gives Verstappen title lead as Leclerc retires in Barcelona",
+  "curatedSection": {
+    "contentType": "assemblySimpleArticleList",
+    "title": "Event Tracker Spain 2022 - Curated Articles",
+    "items": [
+      {
+        "id": "pXFI29jtsyxFEN1biVN7s",
+        "updatedAt": "2022-05-22T13:24:48.541Z",
+        "realUpdatedAt": "2022-05-22T13:24:50.875Z",
+        "locale": "en",
+        "title": "WATCH: Enjoy the race start at the Spanish GP as Hamilton and Magnussen make contact",
+        "slug": "watch-enjoy-the-race-start-at-the-spanish-gp-as-hamilton-and-magnussen-make",
+        "articleType": "Video",
+        "metaDescription": "With temperatures reading 36 degrees Celsius, the 2022 Spanish Grand Prix got under way – with Charles Leclerc holding off the Red Bull of title rival Max Verstappen from pole position.\n\n",
+        "thumbnail": {
+          "caption": "2022 Spanish Grand Prix: Leclerc storms away as Magnussen and Hamilton collide at race start",
+          "image": {
+            "title": "2022 Spanish Grand Prix: Leclerc storms away as Magnussen and Hamilton collide at race start",
+            "path": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ec86a5ea-73d0-41f7-a923-99a5d10ebf47/bd2325d5-b6ba-4115-9bd9-4a0b37af2973/640x360/match/image.jpg",
+            "url": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ec86a5ea-73d0-41f7-a923-99a5d10ebf47/bd2325d5-b6ba-4115-9bd9-4a0b37af2973/640x360/match/image.jpg",
+            "renditions": {
+              "2col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ec86a5ea-73d0-41f7-a923-99a5d10ebf47/bd2325d5-b6ba-4115-9bd9-4a0b37af2973/206x116/match/image.jpg",
+              "2col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ec86a5ea-73d0-41f7-a923-99a5d10ebf47/bd2325d5-b6ba-4115-9bd9-4a0b37af2973/412x232/match/image.jpg",
+              "3col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ec86a5ea-73d0-41f7-a923-99a5d10ebf47/bd2325d5-b6ba-4115-9bd9-4a0b37af2973/319x179/match/image.jpg",
+              "3col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ec86a5ea-73d0-41f7-a923-99a5d10ebf47/bd2325d5-b6ba-4115-9bd9-4a0b37af2973/638x359/match/image.jpg",
+              "4col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ec86a5ea-73d0-41f7-a923-99a5d10ebf47/bd2325d5-b6ba-4115-9bd9-4a0b37af2973/432x243/match/image.jpg",
+              "4col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ec86a5ea-73d0-41f7-a923-99a5d10ebf47/bd2325d5-b6ba-4115-9bd9-4a0b37af2973/864x486/match/image.jpg",
+              "6col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ec86a5ea-73d0-41f7-a923-99a5d10ebf47/bd2325d5-b6ba-4115-9bd9-4a0b37af2973/658x370/match/image.jpg",
+              "6col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ec86a5ea-73d0-41f7-a923-99a5d10ebf47/bd2325d5-b6ba-4115-9bd9-4a0b37af2973/1316x740/match/image.jpg",
+              "9col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ec86a5ea-73d0-41f7-a923-99a5d10ebf47/bd2325d5-b6ba-4115-9bd9-4a0b37af2973/997x516/match/image.jpg",
+              "9col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ec86a5ea-73d0-41f7-a923-99a5d10ebf47/bd2325d5-b6ba-4115-9bd9-4a0b37af2973/1194x672/match/image.jpg"
+            }
+          }
+        },
+        "mediaIcon": "Video"
+      },
+      {
+        "id": "4GJiW6bZsGzQz2eOUSw7Jn",
+        "updatedAt": "2022-05-22T00:00:00.000Z",
+        "realUpdatedAt": "2022-05-22T13:56:01.565Z",
+        "locale": "en",
+        "title": "LIVE COVERAGE: Follow all the action from the 2022 Spanish Grand Prix",
+        "slug": "live-coverage-formula-1-pirelli-gran-premio-de-espana-2022",
+        "articleType": "Live Blog",
+        "metaDescription": "Live coverage of Sunday's Formula 1 Pirelli Gran Premio de Espana 2022 in Barcelona.",
+        "thumbnail": {
+          "image": {
+            "title": "GettyImages-1240829289.jpg",
+            "path": "/content/dam/fom-website/manual/Misc/2022manual/2022Races/SpanishGP/Sunday/GettyImages-1240829289.jpg",
+            "url": "https://www.formula1.com/content/dam/fom-website/manual/Misc/2022manual/2022Races/SpanishGP/Sunday/GettyImages-1240829289.jpg"
+          }
+        },
+        "isLive": true
+      }
+    ]
+  },
+  "circuitSmallImage": {
+    "title": "Spain.png",
+    "path": "/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Spain.png",
+    "url": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Spain.png"
+  },
+  "links": [
+    {
+      "text": "RESULTS",
+      "url": "https://www.formula1.com/en/results.html/2022/races/1111/spain/race-result.html"
+    }
+  ],
+  "seasonContext": {
+    "id": "4kUSabodBuSKy8I2ce68iW",
+    "contentType": "f1SeasonContext",
+    "createdAt": "2018-05-24T08:30:54.749Z",
+    "updatedAt": "2022-05-22T14:55:14.452Z",
+    "locale": "en",
+    "seasonYear": "2022",
+    "currentOrNextMeetingKey": "1111",
+    "state": "POST-RACE",
+    "eventState": "IDLE",
+    "liveEventId": "1132",
+    "liveTimingsSource": "https://livetiming.formula1.com/signalr",
+    "liveBlog": {
+      "contentType": "atomLiveBlogScribbleLive",
+      "title": "Spain 2022 Race",
+      "scribbleEventId": "/event/2985076/37480"
+    },
+    "seasonState": "DURING-SEASON",
+    "raceListingOverride": 2022,
+    "driverAndTeamListingOverride": 2022,
+    "timetables": [
+      {
+        "state": "started",
+        "session": "r",
+        "gmtOffset": "+02:00",
+        "description": "Race",
+        "endTime": "2022-05-22T17:00:00",
+        "startTime": "2022-05-22T15:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p3",
+        "gmtOffset": "+02:00",
+        "description": "Practice 3",
+        "endTime": "2022-05-21T14:00:00",
+        "startTime": "2022-05-21T13:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p2",
+        "gmtOffset": "+02:00",
+        "description": "Practice 2",
+        "endTime": "2022-05-20T18:00:00",
+        "startTime": "2022-05-20T17:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p1",
+        "gmtOffset": "+02:00",
+        "description": "Practice 1",
+        "endTime": "2022-05-20T15:00:00",
+        "startTime": "2022-05-20T14:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "q",
+        "gmtOffset": "+02:00",
+        "description": "Qualifying",
+        "endTime": "2022-05-21T17:00:00",
+        "startTime": "2022-05-21T16:00:00"
+      }
+    ],
+    "replayBaseUrl": "https://livetiming.formula1.com/static/",
+    "seasonContextUIState": 5
+  },
+  "raceResults": [
+    {
+      "driverTLA": "VER",
+      "driverFirstName": "Max",
+      "driverLastName": "Verstappen",
+      "teamName": "Red Bull Racing",
+      "positionNumber": "1",
+      "raceTime": "1:37:20.475",
+      "teamColourCode": "3671C6",
+      "gapToLeader": "0.0",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png",
+      "driverNameFormat": "FirstNameIsPrimary"
+    },
+    {
+      "driverTLA": "PER",
+      "driverFirstName": "Sergio",
+      "driverLastName": "Perez",
+      "teamName": "Red Bull Racing",
+      "positionNumber": "2",
+      "raceTime": "1:37:33.547",
+      "teamColourCode": "3671C6",
+      "gapToLeader": "13.072",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png",
+      "driverNameFormat": "FirstNameIsPrimary"
+    },
+    {
+      "driverTLA": "RUS",
+      "driverFirstName": "George",
+      "driverLastName": "Russell",
+      "teamName": "Mercedes",
+      "positionNumber": "3",
+      "raceTime": "1:37:53.402",
+      "teamColourCode": "6CD3BF",
+      "gapToLeader": "32.927",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png",
+      "driverNameFormat": "FirstNameIsPrimary"
+    }
+  ],
+  "race": {
+    "meetingCountryName": "Spain",
+    "meetingStartDate": "2022-05-20T12:00:00.000Z",
+    "meetingOfficialName": "FORMULA 1 PIRELLI GRAN PREMIO DE ESPAÑA 2022",
+    "meetingEndDate": "2022-05-22T15:00:00.000Z"
+  },
+  "seasonYearImage": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/year%20icon/2022.png",
+  "sessionLinkSets": {
+    "replayLinks": [
+      {
+        "session": "p1",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-05-22_Spanish_Grand_Prix/2022-05-20_Practice_1/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "p2",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-05-22_Spanish_Grand_Prix/2022-05-20_Practice_2/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "p3",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-05-22_Spanish_Grand_Prix/2022-05-21_Practice_3/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "q",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-05-22_Spanish_Grand_Prix/2022-05-21_Qualifying/",
+        "linkType": "Replay"
+      }
+    ]
+  }
+}
