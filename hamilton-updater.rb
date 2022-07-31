@@ -35,7 +35,7 @@ when 'upcoming'
   File.write("#{__dir__}/index.md", "# The race hasn't started yet")
   File.write("#{__dir__}/api_results/#{Time.now.strftime('%Y%m%d-%H%M%S')}.json", JSON.pretty_generate(race_status))
 when 'started'
-  File.write("#{__dir__}/index.md", '# They\'re Racing now')
+  File.write("#{__dir__}/index.md", '# They\'re racing now')
   File.write("#{__dir__}/api_results/#{Time.now.strftime('%Y%m%d-%H%M%S')}.json", JSON.pretty_generate(race_status))
 when 'completed'
   winner = race_status['raceResults'].select{|hash| hash['positionNumber'] == '1' }.first
