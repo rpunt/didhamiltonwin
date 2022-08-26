@@ -13,7 +13,7 @@ theme: jekyll-theme-minimal
 
 url: https://didhamiltonwin.com/
 baseurl: ""
-exclude: [api_results]
+exclude: [api_results, archive]
 
 ### Dependencies ###
 gems:
