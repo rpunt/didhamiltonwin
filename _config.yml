@@ -1,10 +1,14 @@
 ---
+repository: rpunt/didhamiltonwin
+author: Ryan Punt
+twitter_handle: dynomite_joe
 title: Did Hamilton win?
-description: 'Bahrain: 20 March 2022'
-quali_time: 15:00 GMT
-race_time: 15:00 GMT
+description: 'Belgium: 28 August 2022'
 google_analytics: G-NLXF8B5LJ4
 show_downloads: false
 theme: jekyll-theme-minimal
-gems:
-- jekyll-mentions
+url: https://didhamiltonwin.com/
+baseurl: ''
+exclude:
+- api_results
+- archive

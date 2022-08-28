@@ -1,0 +1,219 @@
+{
+  "raceHubId": "5DYhLpJAiTmMiaXEu7kb6a",
+  "locale": "en",
+  "createdAt": "2021-12-15T16:25:05.407Z",
+  "updatedAt": "2022-04-10T08:48:22.428Z",
+  "fomRaceId": "1108",
+  "brandColourHexadecimal": "ee0000",
+  "headline": "Leclerc takes commanding Melbourne win as Verstappen fails to finish",
+  "curatedSection": {
+    "contentType": "assemblySimpleArticleList",
+    "title": "Event Tracker Australia 2022 - Curated Articles",
+    "items": [
+      {
+        "id": "6LAfaKSdPctPaN84Fz904w",
+        "updatedAt": "2022-04-10T08:13:36.891Z",
+        "realUpdatedAt": "2022-04-10T08:39:25.715Z",
+        "locale": "en",
+        "title": "HIGHLIGHTS: Watch the action from a thrilling 2022 Australian Grand Prix",
+        "slug": "highlights-watch-the-action-from-a-thrilling-2022-australian-grand-prix",
+        "articleType": "Video",
+        "metaDescription": "Charles Leclerc delivered an emphatic performance at the 2022 Australian Grand Prix, as the Ferrari racer came home to clinch his second win of the season to extend his lead at the top of the championship.",
+        "thumbnail": {
+          "caption": "Race Highlights: Australian Grand Prix",
+          "image": {
+            "title": "Race Highlights: Australian Grand Prix",
+            "path": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ea56f7b1-1cd3-4784-8718-877694118891/cb30ddf1-e4ab-41eb-8d7e-5ed5be55b8e5/640x360/match/image.jpg",
+            "url": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ea56f7b1-1cd3-4784-8718-877694118891/cb30ddf1-e4ab-41eb-8d7e-5ed5be55b8e5/640x360/match/image.jpg",
+            "renditions": {
+              "2col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ea56f7b1-1cd3-4784-8718-877694118891/cb30ddf1-e4ab-41eb-8d7e-5ed5be55b8e5/206x116/match/image.jpg",
+              "2col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ea56f7b1-1cd3-4784-8718-877694118891/cb30ddf1-e4ab-41eb-8d7e-5ed5be55b8e5/412x232/match/image.jpg",
+              "3col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ea56f7b1-1cd3-4784-8718-877694118891/cb30ddf1-e4ab-41eb-8d7e-5ed5be55b8e5/319x179/match/image.jpg",
+              "3col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ea56f7b1-1cd3-4784-8718-877694118891/cb30ddf1-e4ab-41eb-8d7e-5ed5be55b8e5/638x359/match/image.jpg",
+              "4col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ea56f7b1-1cd3-4784-8718-877694118891/cb30ddf1-e4ab-41eb-8d7e-5ed5be55b8e5/432x243/match/image.jpg",
+              "4col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ea56f7b1-1cd3-4784-8718-877694118891/cb30ddf1-e4ab-41eb-8d7e-5ed5be55b8e5/864x486/match/image.jpg",
+              "6col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ea56f7b1-1cd3-4784-8718-877694118891/cb30ddf1-e4ab-41eb-8d7e-5ed5be55b8e5/658x370/match/image.jpg",
+              "6col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ea56f7b1-1cd3-4784-8718-877694118891/cb30ddf1-e4ab-41eb-8d7e-5ed5be55b8e5/1316x740/match/image.jpg",
+              "9col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ea56f7b1-1cd3-4784-8718-877694118891/cb30ddf1-e4ab-41eb-8d7e-5ed5be55b8e5/997x516/match/image.jpg",
+              "9col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/ea56f7b1-1cd3-4784-8718-877694118891/cb30ddf1-e4ab-41eb-8d7e-5ed5be55b8e5/1194x672/match/image.jpg"
+            }
+          }
+        }
+      },
+      {
+        "id": "7Exhm5kuubqsywFoAe0QAK",
+        "updatedAt": "2022-04-10T06:42:16.153Z",
+        "realUpdatedAt": "2022-04-10T09:06:22.327Z",
+        "locale": "en",
+        "title": "Dominant Leclerc beats Perez to Australian GP win as Verstappen retires",
+        "slug": "leclerc-dominates-in-australia-as-verstappen-suffers-dnf",
+        "articleType": "Report",
+        "metaDescription": "Charles Leclerc won the 2022 Australian Grand Prix to consolidate his and Ferrari’s championship leads as Max Verstappen suffered a second retirement in three races – Red Bull team mate Sergio Perez finishing second and Mercedes’ George Russell completing the podium.",
+        "thumbnail": {
+          "caption": "GettyImages-1390593713.jpg",
+          "image": {
+            "title": "GettyImages-1390593713.jpg",
+            "path": "/content/dam/fom-website/manual/Misc/2022manual/2022Races/AustralianGP/Sunday/GettyImages-1390593713.jpg",
+            "url": "https://www.formula1.com/content/dam/fom-website/manual/Misc/2022manual/2022Races/AustralianGP/Sunday/GettyImages-1390593713.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "circuitSmallImage": {
+    "title": "Australia.png",
+    "path": "/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Australia.png",
+    "url": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Australia.png"
+  },
+  "links": [
+    {
+      "text": "RESULTS",
+      "url": "https://www.formula1.com/en/results.html/2022/races/1108/australia/race-result.html"
+    },
+    {
+      "text": "HIGHLIGHTS",
+      "url": "https://www.formula1.com/en/latest/article.highlights-watch-the-action-from-a-thrilling-2022-australian-grand-prix.6LAfaKSdPctPaN84Fz904w.html"
+    }
+  ],
+  "seasonContext": {
+    "id": "4kUSabodBuSKy8I2ce68iW",
+    "contentType": "f1SeasonContext",
+    "createdAt": "2018-05-24T08:30:54.749Z",
+    "updatedAt": "2022-04-10T06:47:59.979Z",
+    "locale": "en",
+    "seasonYear": "2022",
+    "currentOrNextMeetingKey": "1108",
+    "state": "POST-RACE",
+    "eventState": "IDLE",
+    "liveEventId": "1132",
+    "liveTimingsSource": "https://livetiming.formula1.com/signalr",
+    "liveBlog": {
+      "contentType": "atomLiveBlogScribbleLive",
+      "title": "Australia 2022 Race",
+      "scribbleEventId": "/event/2984877/37480"
+    },
+    "seasonState": "DURING-SEASON",
+    "raceListingOverride": 2022,
+    "driverAndTeamListingOverride": 2022,
+    "timetables": [
+      {
+        "state": "completed",
+        "session": "r",
+        "gmtOffset": "+10:00",
+        "description": "Race",
+        "endTime": "2022-04-10T17:00:00",
+        "startTime": "2022-04-10T15:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p3",
+        "gmtOffset": "+10:00",
+        "description": "Practice 3",
+        "endTime": "2022-04-09T14:00:00",
+        "startTime": "2022-04-09T13:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p2",
+        "gmtOffset": "+10:00",
+        "description": "Practice 2",
+        "endTime": "2022-04-08T17:00:00",
+        "startTime": "2022-04-08T16:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p1",
+        "gmtOffset": "+10:00",
+        "description": "Practice 1",
+        "endTime": "2022-04-08T14:00:00",
+        "startTime": "2022-04-08T13:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "q",
+        "gmtOffset": "+10:00",
+        "description": "Qualifying",
+        "endTime": "2022-04-09T17:00:00",
+        "startTime": "2022-04-09T16:00:00"
+      }
+    ],
+    "replayBaseUrl": "https://livetiming.formula1.com/static/",
+    "seasonContextUIState": 5
+  },
+  "raceResults": [
+    {
+      "driverTLA": "LEC",
+      "driverFirstName": "Charles",
+      "driverLastName": "Leclerc",
+      "teamName": "Ferrari",
+      "positionNumber": "1",
+      "raceTime": "1:27:46.548",
+      "teamColourCode": "F91536",
+      "gapToLeader": "0.0",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png"
+    },
+    {
+      "driverTLA": "PER",
+      "driverFirstName": "Sergio",
+      "driverLastName": "Perez",
+      "teamName": "Red Bull Racing",
+      "positionNumber": "2",
+      "raceTime": "1:28:07.072",
+      "teamColourCode": "3671C6",
+      "gapToLeader": "20.524",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png"
+    },
+    {
+      "driverTLA": "RUS",
+      "driverFirstName": "George",
+      "driverLastName": "Russell",
+      "teamName": "Mercedes",
+      "positionNumber": "3",
+      "raceTime": "1:28:12.141",
+      "teamColourCode": "6CD3BF",
+      "gapToLeader": "25.593",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png"
+    }
+  ],
+  "race": {
+    "meetingCountryName": "Australia",
+    "meetingStartDate": "2022-04-08T03:00:00.000Z",
+    "meetingOfficialName": "FORMULA 1 HEINEKEN AUSTRALIAN GRAND PRIX 2022",
+    "meetingEndDate": "2022-04-10T07:00:00.000Z"
+  },
+  "seasonYearImage": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/year%20icon/2022.png",
+  "sessionLinkSets": {
+    "replayLinks": [
+      {
+        "session": "p1",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-04-10_Australian_Grand_Prix/2022-04-08_Practice_1/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "p2",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-04-10_Australian_Grand_Prix/2022-04-08_Practice_2/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "p3",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-04-10_Australian_Grand_Prix/2022-04-09_Practice_3/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "q",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-04-10_Australian_Grand_Prix/2022-04-09_Qualifying/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "r",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-04-10_Australian_Grand_Prix/2022-04-10_Race/",
+        "linkType": "Replay"
+      }
+    ]
+  }
+}

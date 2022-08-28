@@ -1,0 +1,219 @@
+{
+  "raceHubId": "4qCJ1J6cpmsBCW8hXc5lh1",
+  "locale": "en",
+  "createdAt": "2021-12-15T16:25:06.912Z",
+  "updatedAt": "2022-06-12T12:52:18.780Z",
+  "fomRaceId": "1126",
+  "brandColourHexadecimal": "ee0000",
+  "headline": "Verstappen heads Red Bull 1-2 in Baku as Ferrari suffer double DNF",
+  "curatedSection": {
+    "contentType": "assemblySimpleArticleList",
+    "title": "Event Tracker Azerbaijan 2022 - Curated Articles",
+    "items": [
+      {
+        "id": "Hfh10Nl59OKh2MNOIvhcy",
+        "updatedAt": "2022-06-12T12:44:24.793Z",
+        "realUpdatedAt": "2022-06-12T13:34:55.475Z",
+        "locale": "en",
+        "title": "Verstappen leads Red Bull 1-2 as both Leclerc and Sainz retire in Azerbaijan",
+        "slug": "verstappen-leads-red-bull-1-2-as-both-leclerc-and-sainz-retire-in-azerbaijan",
+        "articleType": "Report",
+        "metaDescription": "Max Verstappen led a Red Bull one-two in the Azerbaijan Grand Prix after retirements for Ferrari’s Charles Leclerc and Carlos Sainz, giving Mercedes’ George Russell P3 at Baku.",
+        "thumbnail": {
+          "caption": "BAKU, AZERBAIJAN - JUNE 12: Race winner Max Verstappen of the Netherlands and Oracle Red Bull Racing and Second placed Sergio Perez of Mexico and Oracle Red Bull Racing celebrate in parc ferme during the F1 Grand Prix of Azerbaijan at Baku City Circuit on June 12, 2022 in Baku, Azerbaijan. (Photo by Dan Istitene - Formula 1/Formula 1 via Getty Images)",
+          "image": {
+            "title": "1402470575",
+            "path": "/content/dam/fom-website/sutton/2022/Azerbaijan/Sunday/1402470575.jpg",
+            "url": "https://www.formula1.com/content/dam/fom-website/sutton/2022/Azerbaijan/Sunday/1402470575.jpg"
+          }
+        }
+      },
+      {
+        "id": "40h2Bfr4OVbTEFu49beH4c",
+        "updatedAt": "2022-06-12T12:01:59.813Z",
+        "realUpdatedAt": "2022-06-12T12:02:30.220Z",
+        "locale": "en",
+        "title": "MUST-SEE: Ferrari suffer double DNF in Baku as Leclerc retires from the lead",
+        "slug": "must-see-ferrari-suffer-double-dnf-in-baku-as-leclerc-retires-from-the-lead",
+        "articleType": "Video",
+        "metaDescription": "Carlos Sainz made it to just Lap 9 of 51 at the 2022 Azerbaijan Grand Prix before pulling up with an issue at Turn 4 – with team mate Charles Leclerc then compounding Ferrari’s woe, as he was forced to retire with his own problem.\n\n",
+        "thumbnail": {
+          "caption": "2022 Azerbaijan Grand Prix: Leclerc’s engine blows out in Baku",
+          "image": {
+            "title": "2022 Azerbaijan Grand Prix: Leclerc’s engine blows out in Baku",
+            "path": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/fb3b6420-aed9-49be-9e22-10f1365abc78/b30dff70-42a3-4e77-86c9-5f854d627666/640x360/match/image.jpg",
+            "url": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/fb3b6420-aed9-49be-9e22-10f1365abc78/b30dff70-42a3-4e77-86c9-5f854d627666/640x360/match/image.jpg",
+            "renditions": {
+              "2col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/fb3b6420-aed9-49be-9e22-10f1365abc78/b30dff70-42a3-4e77-86c9-5f854d627666/206x116/match/image.jpg",
+              "2col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/fb3b6420-aed9-49be-9e22-10f1365abc78/b30dff70-42a3-4e77-86c9-5f854d627666/412x232/match/image.jpg",
+              "3col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/fb3b6420-aed9-49be-9e22-10f1365abc78/b30dff70-42a3-4e77-86c9-5f854d627666/319x179/match/image.jpg",
+              "3col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/fb3b6420-aed9-49be-9e22-10f1365abc78/b30dff70-42a3-4e77-86c9-5f854d627666/638x359/match/image.jpg",
+              "4col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/fb3b6420-aed9-49be-9e22-10f1365abc78/b30dff70-42a3-4e77-86c9-5f854d627666/432x243/match/image.jpg",
+              "4col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/fb3b6420-aed9-49be-9e22-10f1365abc78/b30dff70-42a3-4e77-86c9-5f854d627666/864x486/match/image.jpg",
+              "6col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/fb3b6420-aed9-49be-9e22-10f1365abc78/b30dff70-42a3-4e77-86c9-5f854d627666/658x370/match/image.jpg",
+              "6col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/fb3b6420-aed9-49be-9e22-10f1365abc78/b30dff70-42a3-4e77-86c9-5f854d627666/1316x740/match/image.jpg",
+              "9col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/fb3b6420-aed9-49be-9e22-10f1365abc78/b30dff70-42a3-4e77-86c9-5f854d627666/997x516/match/image.jpg",
+              "9col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/fb3b6420-aed9-49be-9e22-10f1365abc78/b30dff70-42a3-4e77-86c9-5f854d627666/1194x672/match/image.jpg"
+            }
+          }
+        },
+        "mediaIcon": "Video"
+      }
+    ]
+  },
+  "circuitSmallImage": {
+    "title": "Azerbaijan.png",
+    "path": "/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Azerbaijan.png",
+    "url": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Azerbaijan.png"
+  },
+  "links": [
+    {
+      "text": "RESULTS",
+      "url": "https://www.formula1.com/en/results.html/2022/races/1126/azerbaijan/race-result.html"
+    }
+  ],
+  "seasonContext": {
+    "id": "4kUSabodBuSKy8I2ce68iW",
+    "contentType": "f1SeasonContext",
+    "createdAt": "2018-05-24T08:30:54.749Z",
+    "updatedAt": "2022-06-12T12:52:33.640Z",
+    "locale": "en",
+    "seasonYear": "2022",
+    "currentOrNextMeetingKey": "1126",
+    "state": "POST-RACE",
+    "eventState": "IDLE",
+    "liveEventId": "1132",
+    "liveTimingsSource": "https://livetiming.formula1.com/signalr",
+    "liveBlog": {
+      "contentType": "atomLiveBlogScribbleLive",
+      "title": "Azerbaijan 2022 Race",
+      "scribbleEventId": "/event/2988381/37480"
+    },
+    "seasonState": "DURING-SEASON",
+    "raceListingOverride": 2022,
+    "driverAndTeamListingOverride": 2022,
+    "timetables": [
+      {
+        "state": "completed",
+        "session": "r",
+        "gmtOffset": "+04:00",
+        "description": "Race",
+        "endTime": "2022-06-12T17:00:00",
+        "startTime": "2022-06-12T15:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p3",
+        "gmtOffset": "+04:00",
+        "description": "Practice 3",
+        "endTime": "2022-06-11T16:00:00",
+        "startTime": "2022-06-11T15:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p2",
+        "gmtOffset": "+04:00",
+        "description": "Practice 2",
+        "endTime": "2022-06-10T19:00:00",
+        "startTime": "2022-06-10T18:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p1",
+        "gmtOffset": "+04:00",
+        "description": "Practice 1",
+        "endTime": "2022-06-10T16:00:00",
+        "startTime": "2022-06-10T15:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "q",
+        "gmtOffset": "+04:00",
+        "description": "Qualifying",
+        "endTime": "2022-06-11T19:00:00",
+        "startTime": "2022-06-11T18:00:00"
+      }
+    ],
+    "replayBaseUrl": "https://livetiming.formula1.com/static/",
+    "seasonContextUIState": 5
+  },
+  "raceResults": [
+    {
+      "driverTLA": "VER",
+      "driverFirstName": "Max",
+      "driverLastName": "Verstappen",
+      "teamName": "Red Bull Racing",
+      "positionNumber": "1",
+      "raceTime": "1:34:05.941",
+      "teamColourCode": "3671C6",
+      "gapToLeader": "0.0",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png",
+      "driverNameFormat": "FirstNameIsPrimary"
+    },
+    {
+      "driverTLA": "PER",
+      "driverFirstName": "Sergio",
+      "driverLastName": "Perez",
+      "teamName": "Red Bull Racing",
+      "positionNumber": "2",
+      "raceTime": "1:34:26.764",
+      "teamColourCode": "3671C6",
+      "gapToLeader": "20.823",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png",
+      "driverNameFormat": "FirstNameIsPrimary"
+    },
+    {
+      "driverTLA": "RUS",
+      "driverFirstName": "George",
+      "driverLastName": "Russell",
+      "teamName": "Mercedes",
+      "positionNumber": "3",
+      "raceTime": "1:34:51.936",
+      "teamColourCode": "6CD3BF",
+      "gapToLeader": "45.995",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png",
+      "driverNameFormat": "FirstNameIsPrimary"
+    }
+  ],
+  "race": {
+    "meetingCountryName": "Azerbaijan",
+    "meetingStartDate": "2022-06-10T11:00:00.000Z",
+    "meetingOfficialName": "FORMULA 1 AZERBAIJAN GRAND PRIX 2022",
+    "meetingEndDate": "2022-06-12T13:00:00.000Z"
+  },
+  "seasonYearImage": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/year%20icon/2022.png",
+  "sessionLinkSets": {
+    "replayLinks": [
+      {
+        "session": "p1",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-06-12_Azerbaijan_Grand_Prix/2022-06-10_Practice_1/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "p2",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-06-12_Azerbaijan_Grand_Prix/2022-06-10_Practice_2/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "p3",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-06-12_Azerbaijan_Grand_Prix/2022-06-11_Practice_3/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "q",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-06-12_Azerbaijan_Grand_Prix/2022-06-11_Qualifying/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "r",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-06-12_Azerbaijan_Grand_Prix/2022-06-12_Race/",
+        "linkType": "Replay"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+AllCops:
+  NewCops: enable
+Layout/LineLength:
+  Enabled: false
+Naming/VariableName:
+  Enabled: false

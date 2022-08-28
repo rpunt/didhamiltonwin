@@ -1,0 +1,222 @@
+{
+  "raceHubId": "55K7zRTdO6mJf3D3VQ1kTU",
+  "locale": "en",
+  "createdAt": "2021-12-15T16:25:06.848Z",
+  "updatedAt": "2022-05-22T17:52:34.829Z",
+  "fomRaceId": "1111",
+  "brandColourHexadecimal": "ee0000",
+  "headline": "Victory gives Verstappen title lead as Leclerc retires in Barcelona",
+  "curatedSection": {
+    "contentType": "assemblySimpleArticleList",
+    "title": "Event Tracker Spain 2022 - Curated Articles",
+    "items": [
+      {
+        "id": "zxIaDzcSrHvj1mfHImGtn",
+        "updatedAt": "2022-05-22T17:51:44.421Z",
+        "realUpdatedAt": "2022-05-22T17:53:19.291Z",
+        "locale": "en",
+        "title": "HIGHLIGHTS: Relive the action from a dramatic race in Spain as Verstappen leads Red Bull 1-2",
+        "slug": "highlights-relive-the-action-from-a-dramatic-race-in-spain-as-verstappen",
+        "articleType": "Video",
+        "metaDescription": "Max Verstappen kept up his record of winning every race he has completed this season as the reigning world champion sealed his third victory in a row at the Spanish Grand Prix.",
+        "thumbnail": {
+          "caption": "Race Highlights: Spanish Grand Prix",
+          "image": {
+            "title": "Race Highlights: Spanish Grand Prix",
+            "path": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/64521828-28af-4d04-ad1b-f4cecc31b5a1/8bdb0c73-8f98-4c4e-8213-cd5df3377a51/640x360/match/image.jpg",
+            "url": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/64521828-28af-4d04-ad1b-f4cecc31b5a1/8bdb0c73-8f98-4c4e-8213-cd5df3377a51/640x360/match/image.jpg",
+            "renditions": {
+              "2col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/64521828-28af-4d04-ad1b-f4cecc31b5a1/8bdb0c73-8f98-4c4e-8213-cd5df3377a51/206x116/match/image.jpg",
+              "2col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/64521828-28af-4d04-ad1b-f4cecc31b5a1/8bdb0c73-8f98-4c4e-8213-cd5df3377a51/412x232/match/image.jpg",
+              "3col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/64521828-28af-4d04-ad1b-f4cecc31b5a1/8bdb0c73-8f98-4c4e-8213-cd5df3377a51/319x179/match/image.jpg",
+              "3col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/64521828-28af-4d04-ad1b-f4cecc31b5a1/8bdb0c73-8f98-4c4e-8213-cd5df3377a51/638x359/match/image.jpg",
+              "4col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/64521828-28af-4d04-ad1b-f4cecc31b5a1/8bdb0c73-8f98-4c4e-8213-cd5df3377a51/432x243/match/image.jpg",
+              "4col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/64521828-28af-4d04-ad1b-f4cecc31b5a1/8bdb0c73-8f98-4c4e-8213-cd5df3377a51/864x486/match/image.jpg",
+              "6col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/64521828-28af-4d04-ad1b-f4cecc31b5a1/8bdb0c73-8f98-4c4e-8213-cd5df3377a51/658x370/match/image.jpg",
+              "6col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/64521828-28af-4d04-ad1b-f4cecc31b5a1/8bdb0c73-8f98-4c4e-8213-cd5df3377a51/1316x740/match/image.jpg",
+              "9col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/64521828-28af-4d04-ad1b-f4cecc31b5a1/8bdb0c73-8f98-4c4e-8213-cd5df3377a51/997x516/match/image.jpg",
+              "9col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/64521828-28af-4d04-ad1b-f4cecc31b5a1/8bdb0c73-8f98-4c4e-8213-cd5df3377a51/1194x672/match/image.jpg"
+            }
+          }
+        }
+      },
+      {
+        "id": "2QWiiblgiZzKNW3auDtyut",
+        "updatedAt": "2022-05-22T14:48:06.984Z",
+        "realUpdatedAt": "2022-05-22T16:43:30.183Z",
+        "locale": "en",
+        "title": "Verstappen leads Red Bull 1-2 after Leclerc retires from rollercoaster Spanish Grand Prix",
+        "slug": "verstappen-leads-red-bull-1-2-after-leclerc-retires-from-rollercoaster",
+        "articleType": "Report",
+        "metaDescription": "Max Verstappen won an action-packed 2022 Spanish Grand Prix as pole-sitter Charles Leclerc retired from a comfortable lead. Sergio Perez took second place to secure Red Bull’s second one-two of the season as George Russell finished third for Mercedes, having been involved in an epic bout with eventual winner Verstappen.",
+        "thumbnail": {
+          "caption": "BARCELONA, SPAIN - MAY 22: Race winner Max Verstappen of the Netherlands and Oracle Red Bull Racing celebrates in parc ferme during the F1 Grand Prix of Spain at Circuit de Barcelona-Catalunya on May 22, 2022 in Barcelona, Spain. (Photo by Dan Istitene - Formula 1/Formula 1 via Getty Images)",
+          "image": {
+            "title": "1398651471",
+            "path": "/content/dam/fom-website/sutton/2022/Spain/Sunday/1398651471.jpg",
+            "url": "https://www.formula1.com/content/dam/fom-website/sutton/2022/Spain/Sunday/1398651471.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "circuitSmallImage": {
+    "title": "Spain.png",
+    "path": "/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Spain.png",
+    "url": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Spain.png"
+  },
+  "links": [
+    {
+      "text": "RESULTS",
+      "url": "https://www.formula1.com/en/results.html/2022/races/1111/spain/race-result.html"
+    },
+    {
+      "text": "HIGHLIGHTS",
+      "url": "https://www.formula1.com/en/latest/article.highlights-relive-the-action-from-a-dramatic-race-in-spain-as-verstappen.zxIaDzcSrHvj1mfHImGtn.html"
+    }
+  ],
+  "seasonContext": {
+    "id": "4kUSabodBuSKy8I2ce68iW",
+    "contentType": "f1SeasonContext",
+    "createdAt": "2018-05-24T08:30:54.749Z",
+    "updatedAt": "2022-05-22T14:55:14.452Z",
+    "locale": "en",
+    "seasonYear": "2022",
+    "currentOrNextMeetingKey": "1111",
+    "state": "POST-RACE",
+    "eventState": "IDLE",
+    "liveEventId": "1132",
+    "liveTimingsSource": "https://livetiming.formula1.com/signalr",
+    "liveBlog": {
+      "contentType": "atomLiveBlogScribbleLive",
+      "title": "Spain 2022 Race",
+      "scribbleEventId": "/event/2985076/37480"
+    },
+    "seasonState": "DURING-SEASON",
+    "raceListingOverride": 2022,
+    "driverAndTeamListingOverride": 2022,
+    "timetables": [
+      {
+        "state": "completed",
+        "session": "r",
+        "gmtOffset": "+02:00",
+        "description": "Race",
+        "endTime": "2022-05-22T17:00:00",
+        "startTime": "2022-05-22T15:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p3",
+        "gmtOffset": "+02:00",
+        "description": "Practice 3",
+        "endTime": "2022-05-21T14:00:00",
+        "startTime": "2022-05-21T13:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p2",
+        "gmtOffset": "+02:00",
+        "description": "Practice 2",
+        "endTime": "2022-05-20T18:00:00",
+        "startTime": "2022-05-20T17:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p1",
+        "gmtOffset": "+02:00",
+        "description": "Practice 1",
+        "endTime": "2022-05-20T15:00:00",
+        "startTime": "2022-05-20T14:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "q",
+        "gmtOffset": "+02:00",
+        "description": "Qualifying",
+        "endTime": "2022-05-21T17:00:00",
+        "startTime": "2022-05-21T16:00:00"
+      }
+    ],
+    "replayBaseUrl": "https://livetiming.formula1.com/static/",
+    "seasonContextUIState": 5
+  },
+  "raceResults": [
+    {
+      "driverTLA": "VER",
+      "driverFirstName": "Max",
+      "driverLastName": "Verstappen",
+      "teamName": "Red Bull Racing",
+      "positionNumber": "1",
+      "raceTime": "1:37:20.475",
+      "teamColourCode": "3671C6",
+      "gapToLeader": "0.0",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png",
+      "driverNameFormat": "FirstNameIsPrimary"
+    },
+    {
+      "driverTLA": "PER",
+      "driverFirstName": "Sergio",
+      "driverLastName": "Perez",
+      "teamName": "Red Bull Racing",
+      "positionNumber": "2",
+      "raceTime": "1:37:33.547",
+      "teamColourCode": "3671C6",
+      "gapToLeader": "13.072",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png",
+      "driverNameFormat": "FirstNameIsPrimary"
+    },
+    {
+      "driverTLA": "RUS",
+      "driverFirstName": "George",
+      "driverLastName": "Russell",
+      "teamName": "Mercedes",
+      "positionNumber": "3",
+      "raceTime": "1:37:53.402",
+      "teamColourCode": "6CD3BF",
+      "gapToLeader": "32.927",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png",
+      "driverNameFormat": "FirstNameIsPrimary"
+    }
+  ],
+  "race": {
+    "meetingCountryName": "Spain",
+    "meetingStartDate": "2022-05-20T12:00:00.000Z",
+    "meetingOfficialName": "FORMULA 1 PIRELLI GRAN PREMIO DE ESPAÑA 2022",
+    "meetingEndDate": "2022-05-22T15:00:00.000Z"
+  },
+  "seasonYearImage": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/year%20icon/2022.png",
+  "sessionLinkSets": {
+    "replayLinks": [
+      {
+        "session": "p1",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-05-22_Spanish_Grand_Prix/2022-05-20_Practice_1/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "p2",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-05-22_Spanish_Grand_Prix/2022-05-20_Practice_2/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "p3",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-05-22_Spanish_Grand_Prix/2022-05-21_Practice_3/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "q",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-05-22_Spanish_Grand_Prix/2022-05-21_Qualifying/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "r",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-05-22_Spanish_Grand_Prix/2022-05-22_Race/",
+        "linkType": "Replay"
+      }
+    ]
+  }
+}

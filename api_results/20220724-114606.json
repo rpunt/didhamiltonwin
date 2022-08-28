@@ -1,0 +1,223 @@
+{
+  "raceHubId": "1QTfFyPVpDgeumvBq0US3j",
+  "locale": "en",
+  "createdAt": "2021-12-15T16:25:07.917Z",
+  "updatedAt": "2022-07-24T16:43:43.942Z",
+  "fomRaceId": "1116",
+  "brandColourHexadecimal": "ee0000",
+  "headline": "Verstappen wins from Hamilton and Russell after disaster for Leclerc",
+  "curatedSection": {
+    "contentType": "assemblySimpleArticleList",
+    "title": "Event Tracker France 2022 - Curated Articles",
+    "items": [
+      {
+        "id": "7M0QwKL9A6V7R5DhVipZ6s",
+        "updatedAt": "2022-07-24T14:11:55.271Z",
+        "realUpdatedAt": "2022-07-24T14:11:59.667Z",
+        "locale": "en",
+        "title": "MUST-SEE: Leclerc crashes out of the lead of the French Grand Prix",
+        "slug": "must-see-leclerc-crashes-out-of-the-lead-of-the-french-grand-prix",
+        "articleType": "Video",
+        "metaDescription": "It was all going so well for Charles Leclerc at Paul Ricard, where he led from pole – until disaster struck the Ferrari driver on Lap 18.",
+        "thumbnail": {
+          "caption": "2022 French GP Grand Prix: Leclerc smashes into the wall from race lead",
+          "image": {
+            "title": "2022 French GP Grand Prix: Leclerc smashes into the wall from race lead",
+            "path": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/6a8ddc75-31cd-4de5-a53c-bfba5086e8d7/02ded9f2-ccc1-4ff6-98b8-30ebc00fd5ab/640x360/match/image.jpg",
+            "url": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/6a8ddc75-31cd-4de5-a53c-bfba5086e8d7/02ded9f2-ccc1-4ff6-98b8-30ebc00fd5ab/640x360/match/image.jpg",
+            "renditions": {
+              "2col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/6a8ddc75-31cd-4de5-a53c-bfba5086e8d7/02ded9f2-ccc1-4ff6-98b8-30ebc00fd5ab/206x116/match/image.jpg",
+              "2col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/6a8ddc75-31cd-4de5-a53c-bfba5086e8d7/02ded9f2-ccc1-4ff6-98b8-30ebc00fd5ab/412x232/match/image.jpg",
+              "3col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/6a8ddc75-31cd-4de5-a53c-bfba5086e8d7/02ded9f2-ccc1-4ff6-98b8-30ebc00fd5ab/319x179/match/image.jpg",
+              "3col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/6a8ddc75-31cd-4de5-a53c-bfba5086e8d7/02ded9f2-ccc1-4ff6-98b8-30ebc00fd5ab/638x359/match/image.jpg",
+              "4col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/6a8ddc75-31cd-4de5-a53c-bfba5086e8d7/02ded9f2-ccc1-4ff6-98b8-30ebc00fd5ab/432x243/match/image.jpg",
+              "4col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/6a8ddc75-31cd-4de5-a53c-bfba5086e8d7/02ded9f2-ccc1-4ff6-98b8-30ebc00fd5ab/864x486/match/image.jpg",
+              "6col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/6a8ddc75-31cd-4de5-a53c-bfba5086e8d7/02ded9f2-ccc1-4ff6-98b8-30ebc00fd5ab/658x370/match/image.jpg",
+              "6col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/6a8ddc75-31cd-4de5-a53c-bfba5086e8d7/02ded9f2-ccc1-4ff6-98b8-30ebc00fd5ab/1316x740/match/image.jpg",
+              "9col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/6a8ddc75-31cd-4de5-a53c-bfba5086e8d7/02ded9f2-ccc1-4ff6-98b8-30ebc00fd5ab/997x516/match/image.jpg",
+              "9col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/6a8ddc75-31cd-4de5-a53c-bfba5086e8d7/02ded9f2-ccc1-4ff6-98b8-30ebc00fd5ab/1194x672/match/image.jpg"
+            }
+          }
+        },
+        "mediaIcon": "Video"
+      },
+      {
+        "id": "11eNOAzyvZfPOnRnY3AYuz",
+        "updatedAt": "2022-07-24T14:49:53.479Z",
+        "realUpdatedAt": "2022-07-24T15:32:19.569Z",
+        "locale": "en",
+        "title": "Verstappen wins the 2022 French Grand Prix as pole-sitter Leclerc crashes out of the lead",
+        "slug": "verstappen-wins-the-2022-french-grand-prix-as-pole-sitter-leclerc-crashes",
+        "articleType": "Report",
+        "metaDescription": "Max Verstappen won the 2022 French Grand Prix for Red Bull after Ferrari's Charles Leclerc crashed out, with the Mercedes duo of Lewis Hamilton and George Russell completing the podium at Paul Ricard.",
+        "thumbnail": {
+          "caption": "LE CASTELLET, FRANCE - JULY 24: Max Verstappen of the Netherlands driving the (1) Oracle Red Bull Racing RB18 on track during the F1 Grand Prix of France at Circuit Paul Ricard on July 24, 2022 in Le Castellet, France. (Photo by Joe Portlock - Formula 1/Formula 1 via Getty Images)",
+          "image": {
+            "title": "1410640812",
+            "path": "/content/dam/fom-website/sutton/2022/France/Sunday/1410640812.jpg",
+            "url": "https://www.formula1.com/content/dam/fom-website/sutton/2022/France/Sunday/1410640812.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "circuitSmallImage": {
+    "title": "France.png",
+    "path": "/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/France.png",
+    "url": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/France.png"
+  },
+  "links": [
+    {
+      "text": "RESULTS",
+      "url": "https://www.formula1.com/en/results.html/2022/france/1116/france/race-result.html"
+    },
+    {
+      "text": "HIGHLIGHTS",
+      "url": "https://www.formula1.com/en/latest/article.highlights-relive-the-action-from-a-dramatic-french-grand-prix-as-verstappen.ZZbWbps32Whww3KVtFYpc.html"
+    }
+  ],
+  "seasonContext": {
+    "id": "4kUSabodBuSKy8I2ce68iW",
+    "contentType": "f1SeasonContext",
+    "createdAt": "2018-05-24T08:30:54.749Z",
+    "updatedAt": "2022-07-24T14:54:54.906Z",
+    "locale": "en",
+    "seasonYear": "2022",
+    "currentOrNextMeetingKey": "1116",
+    "state": "POST-RACE",
+    "eventState": "IDLE",
+    "liveEventId": "1132",
+    "liveTimingsSource": "https://livetiming.formula1.com/signalr",
+    "liveBlog": {
+      "contentType": "atomLiveBlogScribbleLive",
+      "title": "France 2022 Race",
+      "scribbleEventId": "/event/2988694/37480"
+    },
+    "seasonState": "DURING-SEASON",
+    "raceListingOverride": 2022,
+    "driverAndTeamListingOverride": 2022,
+    "timetables": [
+      {
+        "state": "completed",
+        "session": "r",
+        "gmtOffset": "+02:00",
+        "description": "Race",
+        "endTime": "2022-07-24T17:00:00",
+        "startTime": "2022-07-24T15:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p3",
+        "gmtOffset": "+02:00",
+        "description": "Practice 3",
+        "endTime": "2022-07-23T14:00:00",
+        "startTime": "2022-07-23T13:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p2",
+        "gmtOffset": "+02:00",
+        "description": "Practice 2",
+        "endTime": "2022-07-22T18:00:00",
+        "startTime": "2022-07-22T17:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p1",
+        "gmtOffset": "+02:00",
+        "description": "Practice 1",
+        "endTime": "2022-07-22T15:00:00",
+        "startTime": "2022-07-22T14:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "q",
+        "gmtOffset": "+02:00",
+        "description": "Qualifying",
+        "endTime": "2022-07-23T17:00:00",
+        "startTime": "2022-07-23T16:00:00"
+      }
+    ],
+    "replayBaseUrl": "https://livetiming.formula1.com/static/",
+    "seasonContextUIState": 5
+  },
+  "raceResults": [
+    {
+      "driverTLA": "VER",
+      "driverFirstName": "Max",
+      "driverLastName": "Verstappen",
+      "teamName": "Red Bull Racing",
+      "positionNumber": "1",
+      "raceTime": "1:30:02.112",
+      "teamColourCode": "3671C6",
+      "gapToLeader": "0.0",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png",
+      "driverNameFormat": "FirstNameIsPrimary"
+    },
+    {
+      "driverTLA": "HAM",
+      "driverFirstName": "Lewis",
+      "driverLastName": "Hamilton",
+      "teamName": "Mercedes",
+      "positionNumber": "2",
+      "raceTime": "1:30:12.699",
+      "teamColourCode": "6CD3BF",
+      "gapToLeader": "10.587",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png",
+      "driverNameFormat": "FirstNameIsPrimary"
+    },
+    {
+      "driverTLA": "RUS",
+      "driverFirstName": "George",
+      "driverLastName": "Russell",
+      "teamName": "Mercedes",
+      "positionNumber": "3",
+      "raceTime": "1:30:18.607",
+      "teamColourCode": "6CD3BF",
+      "gapToLeader": "16.495",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png",
+      "driverNameFormat": "FirstNameIsPrimary"
+    }
+  ],
+  "race": {
+    "meetingCountryName": "France",
+    "meetingStartDate": "2022-07-22T12:00:00.000Z",
+    "meetingOfficialName": "FORMULA 1 LENOVO GRAND PRIX DE FRANCE 2022",
+    "meetingEndDate": "2022-07-24T15:00:00.000Z"
+  },
+  "seasonYearImage": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/year%20icon/2022.png",
+  "sessionLinkSets": {
+    "replayLinks": [
+      {
+        "session": "p1",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-07-24_French_Grand_Prix/2022-07-22_Practice_1/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "p2",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-07-24_French_Grand_Prix/2022-07-22_Practice_2/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "p3",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-07-24_French_Grand_Prix/2022-07-23_Practice_3/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "q",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-07-24_French_Grand_Prix/2022-07-23_Qualifying/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "r",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-07-24_French_Grand_Prix/2022-07-24_Race/",
+        "linkType": "Replay"
+      }
+    ]
+  }
+}

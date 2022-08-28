@@ -1,0 +1,209 @@
+{
+  "raceHubId": "5tvEPB8OPOVmnqJD7Eylge",
+  "locale": "en",
+  "createdAt": "2021-12-15T16:25:06.890Z",
+  "updatedAt": "2022-03-27T20:36:53.818Z",
+  "fomRaceId": "1125",
+  "brandColourHexadecimal": "ee0000",
+  "headline": "Verstappen edges Leclerc by half a second in Saudi Arabian thriller",
+  "curatedSection": {
+    "contentType": "assemblySimpleArticleList",
+    "title": "Event Tracker Saudi Arabia 2022 - Curated Articles",
+    "items": [
+      {
+        "id": "oTicpPnf2hMbdjTzCyROM",
+        "updatedAt": "2022-03-27T18:51:24.573Z",
+        "realUpdatedAt": "2022-03-27T20:17:56.925Z",
+        "locale": "en",
+        "title": "Verstappen beats Leclerc by just 0.5s in epic Saudi Arabian Grand Prix ",
+        "slug": "verstappen-beats-leclerc-by-just-0-5s-in-epic-saudi-arabian-grand-prix",
+        "articleType": "Report",
+        "metaDescription": "Red Bull's Max Verstappen won an incredible battle over Charles Leclerc in Saudi Arabia with Carlos Sainz completing the podium behind his Ferrari team mate.",
+        "thumbnail": {
+          "image": {
+            "title": "1388029912",
+            "path": "/content/dam/fom-website/manual/Misc/2022manual/2022Races/SaudiArabainGP/Sunday/1388029912.jpg",
+            "url": "https://www.formula1.com/content/dam/fom-website/manual/Misc/2022manual/2022Races/SaudiArabainGP/Sunday/1388029912.jpg"
+          }
+        }
+      },
+      {
+        "id": "6xciyzDvvBbt1T3AVQhcwC",
+        "updatedAt": "2022-03-27T00:00:00.000Z",
+        "realUpdatedAt": "2022-03-27T19:10:00.441Z",
+        "locale": "en",
+        "title": "AS IT HAPPENED: Follow all the action from the 2022 Saudi Arabian Grand Prix",
+        "slug": "live-coverage-formula-1-stc-saudi-arabian-grand-prix-2022",
+        "articleType": "Live Blog",
+        "metaDescription": "Live coverage of Sunday's Formula 1 stc Saudi Arabian Grand Prix 2022 in Jeddah.",
+        "thumbnail": {
+          "image": {
+            "title": "1387885376",
+            "path": "/content/dam/fom-website/manual/Misc/2022manual/2022Races/SaudiArabainGP/Sunday/GettyImages-1387885376-(1).jpg",
+            "url": "https://www.formula1.com/content/dam/fom-website/manual/Misc/2022manual/2022Races/SaudiArabainGP/Sunday/GettyImages-1387885376-(1).jpg"
+          }
+        },
+        "isLive": false
+      }
+    ]
+  },
+  "circuitSmallImage": {
+    "title": "Saudi Arabia.png",
+    "path": "/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Saudi%20Arabia.png",
+    "url": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Saudi%20Arabia.png"
+  },
+  "links": [
+    {
+      "text": "RESULTS",
+      "url": "https://www.formula1.com/en/results.html/2022/races/1125/saudi-arabia/race-result.html"
+    },
+    {
+      "text": "HIGHLIGHTS",
+      "url": "https://www.formula1.com/en/latest/article.highlights-relive-the-thrilling-2022-saudi-arabian-grand-prix.1J926EUFOEj2YrNZSPCuos.html"
+    }
+  ],
+  "seasonContext": {
+    "id": "4kUSabodBuSKy8I2ce68iW",
+    "contentType": "f1SeasonContext",
+    "createdAt": "2018-05-24T08:30:54.749Z",
+    "updatedAt": "2022-03-27T18:53:48.139Z",
+    "locale": "en",
+    "seasonYear": "2022",
+    "currentOrNextMeetingKey": "1125",
+    "state": "POST-RACE",
+    "eventState": "IDLE",
+    "liveEventId": "1132",
+    "liveTimingsSource": "https://livetiming.formula1.com/signalr",
+    "liveBlog": {
+      "contentType": "atomLiveBlogScribbleLive",
+      "title": "Saudi Arabia 2022 Race",
+      "scribbleEventId": "/event/2984871/37480"
+    },
+    "seasonState": "DURING-SEASON",
+    "raceListingOverride": 2022,
+    "driverAndTeamListingOverride": 2022,
+    "timetables": [
+      {
+        "state": "completed",
+        "session": "r",
+        "gmtOffset": "+03:00",
+        "description": "Race",
+        "endTime": "2022-03-27T22:00:00",
+        "startTime": "2022-03-27T20:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p3",
+        "gmtOffset": "+03:00",
+        "description": "Practice 3",
+        "endTime": "2022-03-26T18:00:00",
+        "startTime": "2022-03-26T17:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p2",
+        "gmtOffset": "+03:00",
+        "description": "Practice 2",
+        "endTime": "2022-03-25T21:00:00",
+        "startTime": "2022-03-25T20:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p1",
+        "gmtOffset": "+03:00",
+        "description": "Practice 1",
+        "endTime": "2022-03-25T18:00:00",
+        "startTime": "2022-03-25T17:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "q",
+        "gmtOffset": "+03:00",
+        "description": "Qualifying",
+        "endTime": "2022-03-26T21:00:00",
+        "startTime": "2022-03-26T20:00:00"
+      }
+    ],
+    "replayBaseUrl": "https://livetiming.formula1.com/static/",
+    "seasonContextUIState": 5
+  },
+  "raceResults": [
+    {
+      "driverTLA": "VER",
+      "driverFirstName": "Max",
+      "driverLastName": "Verstappen",
+      "teamName": "Red Bull Racing",
+      "positionNumber": "1",
+      "raceTime": "1:24:19.293",
+      "teamColourCode": "1E5BC6",
+      "gapToLeader": "0.0",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png",
+      "driverNameFormat": "FirstNameIsPrimary"
+    },
+    {
+      "driverTLA": "LEC",
+      "driverFirstName": "Charles",
+      "driverLastName": "Leclerc",
+      "teamName": "Ferrari",
+      "positionNumber": "2",
+      "raceTime": "1:24:19.842",
+      "teamColourCode": "ED1C24",
+      "gapToLeader": "0.549",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png",
+      "driverNameFormat": "FirstNameIsPrimary"
+    },
+    {
+      "driverTLA": "SAI",
+      "driverFirstName": "Carlos",
+      "driverLastName": "Sainz",
+      "teamName": "Ferrari",
+      "positionNumber": "3",
+      "raceTime": "1:24:27.390",
+      "teamColourCode": "ED1C24",
+      "gapToLeader": "8.097",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png",
+      "driverNameFormat": "FirstNameIsPrimary"
+    }
+  ],
+  "race": {
+    "meetingCountryName": "Saudi Arabia",
+    "meetingStartDate": "2022-03-25T14:00:00.000Z",
+    "meetingOfficialName": "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2022",
+    "meetingEndDate": "2022-03-27T19:00:00.000Z"
+  },
+  "seasonYearImage": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/year%20icon/2022.png",
+  "sessionLinkSets": {
+    "replayLinks": [
+      {
+        "session": "p1",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-03-27_Saudi_Arabian_Grand_Prix/2022-03-25_Practice_1/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "p2",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-03-27_Saudi_Arabian_Grand_Prix/2022-03-25_Practice_2/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "p3",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-03-27_Saudi_Arabian_Grand_Prix/2022-03-26_Practice_3/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "q",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-03-27_Saudi_Arabian_Grand_Prix/2022-03-26_Qualifying/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "r",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-03-27_Saudi_Arabian_Grand_Prix/2022-03-27_Race/",
+        "linkType": "Replay"
+      }
+    ]
+  }
+}

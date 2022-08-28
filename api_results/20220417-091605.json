@@ -1,0 +1,91 @@
+{
+  "raceHubId": "6PEhvORmQkSijOyHrPGgkR",
+  "locale": "en",
+  "createdAt": "2021-12-15T16:25:05.900Z",
+  "updatedAt": "2022-04-12T20:17:47.674Z",
+  "fomRaceId": "1109",
+  "brandColourHexadecimal": "ee0000",
+  "circuitSmallImage": {
+    "title": "Emilia Romagna.png",
+    "path": "/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Emilia%20Romagna.png",
+    "url": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Emilia%20Romagna.png"
+  },
+  "links": [
+
+  ],
+  "seasonContext": {
+    "id": "4kUSabodBuSKy8I2ce68iW",
+    "contentType": "f1SeasonContext",
+    "createdAt": "2018-05-24T08:30:54.749Z",
+    "updatedAt": "2022-04-11T14:01:44.698Z",
+    "locale": "en",
+    "seasonYear": "2022",
+    "currentOrNextMeetingKey": "1109",
+    "state": "IDLE",
+    "eventState": "IDLE",
+    "liveEventId": "1132",
+    "liveTimingsSource": "https://livetiming.formula1.com/signalr",
+    "liveBlog": {
+      "contentType": "atomLiveBlogScribbleLive",
+      "title": "Australia 2022 Race",
+      "scribbleEventId": "/event/2984877/37480"
+    },
+    "seasonState": "DURING-SEASON",
+    "raceListingOverride": 2022,
+    "driverAndTeamListingOverride": 2022,
+    "timetables": [
+      {
+        "state": "upcoming",
+        "session": "r",
+        "gmtOffset": "+02:00",
+        "description": "Race",
+        "endTime": "2022-04-24T17:00:00",
+        "startTime": "2022-04-24T15:00:00"
+      },
+      {
+        "state": "upcoming",
+        "session": "p2",
+        "gmtOffset": "+02:00",
+        "description": "Practice 2",
+        "endTime": "2022-04-23T13:30:00",
+        "startTime": "2022-04-23T12:30:00"
+      },
+      {
+        "state": "upcoming",
+        "session": "s",
+        "gmtOffset": "+02:00",
+        "description": "Sprint",
+        "endTime": "2022-04-23T17:30:00",
+        "startTime": "2022-04-23T16:30:00"
+      },
+      {
+        "state": "upcoming",
+        "session": "p1",
+        "gmtOffset": "+02:00",
+        "description": "Practice 1",
+        "endTime": "2022-04-22T14:30:00",
+        "startTime": "2022-04-22T13:30:00"
+      },
+      {
+        "state": "upcoming",
+        "session": "q",
+        "gmtOffset": "+02:00",
+        "description": "Qualifying",
+        "endTime": "2022-04-22T18:00:00",
+        "startTime": "2022-04-22T17:00:00"
+      }
+    ],
+    "replayBaseUrl": "https://livetiming.formula1.com/static/",
+    "seasonContextUIState": 5
+  },
+  "raceResults": [
+
+  ],
+  "race": {
+    "meetingCountryName": "Italy",
+    "meetingStartDate": "2022-04-22T11:30:00.000Z",
+    "meetingOfficialName": "FORMULA 1 ROLEX GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2022",
+    "meetingEndDate": "2022-04-24T15:00:00.000Z"
+  },
+  "seasonYearImage": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/year%20icon/2022.png"
+}
