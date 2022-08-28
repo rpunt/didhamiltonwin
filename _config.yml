@@ -10,11 +10,11 @@ show_downloads: false
 theme: jekyll-theme-minimal
 
 ### Build settings ###
-
 url: https://didhamiltonwin.com/
 baseurl: ""
 exclude: [api_results, archive]
 
 ### Dependencies ###
-gems:
-- jekyll-mentions
+# Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.
+# gems:
+# - jekyll-mentions
