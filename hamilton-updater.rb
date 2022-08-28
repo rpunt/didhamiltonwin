@@ -33,16 +33,14 @@ File.write("#{__dir__}/_config.yml", config.to_yaml)
 case raceinfo['state']
 when 'upcoming'
   File.write("#{__dir__}/index.md", "# The race hasn't started yet")
-  File.write("#{__dir__}/api_results/#{Time.now.strftime('%Y%m%d-%H%M%S')}.json", JSON.pretty_generate(race_status))
 when 'started'
   File.write("#{__dir__}/index.md", '# They\'re racing now')
-  File.write("#{__dir__}/api_results/#{Time.now.strftime('%Y%m%d-%H%M%S')}.json", JSON.pretty_generate(race_status))
 when 'completed'
   winner = race_status['raceResults'].select{|hash| hash['positionNumber'] == '1' }.first
   answer = winner['driverLastName'].downcase == 'hamilton' ? 'YES' : 'NO'
   File.write("#{__dir__}/index.md", "# #{answer}")
-  File.write("#{__dir__}/api_results/#{Time.now.strftime('%Y%m%d-%H%M%S')}.json", JSON.pretty_generate(race_status))
 end
+File.write("#{__dir__}/api_results/#{Time.now.strftime('%Y%m%d-%H%M%S')}.json", JSON.pretty_generate(race_status))
 
 if g.status.changed.count > 0
   g.add(:all=>true)
