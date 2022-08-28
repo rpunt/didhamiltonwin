@@ -44,5 +44,5 @@ File.write("#{__dir__}/api_results/#{Time.now.strftime('%Y%m%d-%H%M%S')}.json", 
 if g.status.changed.count.positive?
   g.add(all: true)
   g.commit_all("updating for #{race_status['race']['meetingCountryName']}: #{raceStart.strftime('%d %B %Y')}; race #{raceinfo['state']}")
-  g.push(g.remote('origin'))
+  g.push(g.remote('origin'), 'main')
 end
