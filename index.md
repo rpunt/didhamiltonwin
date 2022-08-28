@@ -1,1 +1,1 @@
-# # They're racing now
+# They're racing now
