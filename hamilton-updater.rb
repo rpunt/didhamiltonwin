@@ -34,7 +34,7 @@ case raceinfo['state']
 when 'upcoming'
   answer = "The race hasn't started yet"
 when 'started'
-  answer = "# They're racing now"
+  answer = "They're racing now"
 when 'completed'
   winner = race_status['raceResults'].select { |hash| hash['positionNumber'] == '1' }.first
   answer = winner['driverLastName'].downcase == 'hamilton' ? 'YES' : 'NO'

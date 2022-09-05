@@ -2,7 +2,7 @@
 
 ## An up-to-the-minute measure of whether the latest F1 race was worth watching: [https://didhamiltonwin.com/](https://didhamiltonwin.com/)
 
-[![CI](https://github.com/rpunt/didhamiltonwin/actions/workflows/main.yml/badge.svg)](https://github.com/rpunt/didhamiltonwin/actions/workflows/main.yml)
+[![CI](https://github.com/rpunt/didhamiltonwin/actions/workflows/ci.yml/badge.svg)](https://github.com/rpunt/didhamiltonwin/actions/workflows/ci.yml)
 
 If you're not a fan of [Formula 1](https://formula1.com), you're probably not familiar with the extent to which [@MercedesAMGF1](https://twitter.com/MercedesAMGF1) and [@LewisHamilton](https://twitter.com/lewishamilton) have dominated the last 6 years. For me, it's gotten to the point that I don't bother watching the race if I know Hamilton won, or at least I don't make it a priority. But how to know in advance whether the race was worth watching without spoiling the results?
 
