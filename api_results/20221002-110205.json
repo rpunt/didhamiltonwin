@@ -1,0 +1,223 @@
+{
+  "raceHubId": "5vuSrj5C9TPqyanSP1o2IH",
+  "locale": "en",
+  "createdAt": "2021-12-15T16:25:05.020Z",
+  "updatedAt": "2022-10-02T16:01:33.673Z",
+  "fomRaceId": "1133",
+  "brandColourHexadecimal": "ee0000",
+  "headline": "Peerless Perez holds off Leclerc for superb Red Bull win in Singapore",
+  "curatedSection": {
+    "contentType": "assemblySimpleArticleList",
+    "title": "Event Tracker Singapore 2022 - Curated Articles",
+    "items": [
+      {
+        "id": "7owlh0W3U9LVDjbifkP6FD",
+        "updatedAt": "2022-10-02T13:36:15.919Z",
+        "realUpdatedAt": "2022-10-02T13:36:21.497Z",
+        "locale": "en",
+        "title": "WATCH: Enjoy the race start at Marina Bay as Perez gets the jump on Leclerc",
+        "slug": "watch-enjoy-the-race-start-at-marina-bay-as-perez-gets-the-jump-on-leclerc",
+        "articleType": "Video",
+        "metaDescription": "Red Bull driver Sergio Perez grabbed the lead of the Singapore Grand Prix from Ferrari rival Charles Leclerc as the lights went out at the Marina Bay Street Circuit in slippery conditions.",
+        "thumbnail": {
+          "caption": "2022 Singapore Grand Prix: Pérez jumps Leclerc at race start",
+          "image": {
+            "title": "2022 Singapore Grand Prix: Pérez jumps Leclerc at race start",
+            "path": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/65d0fa6c-6bbd-4190-a609-39e67d6f635c/03012048-d20d-438f-8912-dc81a8d3cf00/640x360/match/image.jpg",
+            "url": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/65d0fa6c-6bbd-4190-a609-39e67d6f635c/03012048-d20d-438f-8912-dc81a8d3cf00/640x360/match/image.jpg",
+            "renditions": {
+              "2col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/65d0fa6c-6bbd-4190-a609-39e67d6f635c/03012048-d20d-438f-8912-dc81a8d3cf00/206x116/match/image.jpg",
+              "2col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/65d0fa6c-6bbd-4190-a609-39e67d6f635c/03012048-d20d-438f-8912-dc81a8d3cf00/412x232/match/image.jpg",
+              "3col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/65d0fa6c-6bbd-4190-a609-39e67d6f635c/03012048-d20d-438f-8912-dc81a8d3cf00/319x179/match/image.jpg",
+              "3col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/65d0fa6c-6bbd-4190-a609-39e67d6f635c/03012048-d20d-438f-8912-dc81a8d3cf00/638x359/match/image.jpg",
+              "4col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/65d0fa6c-6bbd-4190-a609-39e67d6f635c/03012048-d20d-438f-8912-dc81a8d3cf00/432x243/match/image.jpg",
+              "4col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/65d0fa6c-6bbd-4190-a609-39e67d6f635c/03012048-d20d-438f-8912-dc81a8d3cf00/864x486/match/image.jpg",
+              "6col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/65d0fa6c-6bbd-4190-a609-39e67d6f635c/03012048-d20d-438f-8912-dc81a8d3cf00/658x370/match/image.jpg",
+              "6col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/65d0fa6c-6bbd-4190-a609-39e67d6f635c/03012048-d20d-438f-8912-dc81a8d3cf00/1316x740/match/image.jpg",
+              "9col": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/65d0fa6c-6bbd-4190-a609-39e67d6f635c/03012048-d20d-438f-8912-dc81a8d3cf00/997x516/match/image.jpg",
+              "9col-retina": "https://d2n9h2wits23hf.cloudfront.net/image/v1/static/6057949432001/65d0fa6c-6bbd-4190-a609-39e67d6f635c/03012048-d20d-438f-8912-dc81a8d3cf00/1194x672/match/image.jpg"
+            }
+          }
+        },
+        "mediaIcon": "Video"
+      },
+      {
+        "id": "6fJ3Awe6YmTCf7KSqI2IVG",
+        "updatedAt": "2022-10-02T15:24:16.534Z",
+        "realUpdatedAt": "2022-10-02T16:00:33.927Z",
+        "locale": "en",
+        "title": "Perez holds off Leclerc to win rollercoaster 2022 Singapore Grand Prix as Verstappen settles for 7th",
+        "slug": "perez-holds-off-leclerc-to-win-rollercoaster-2022-singapore-grand-prix-as",
+        "articleType": "Report",
+        "metaDescription": "Sergio Perez held off Charles Leclerc for his first-ever win on the streets of Singapore, while Carlos Sainz completed the podium and Max Verstappen finished seventh in an action-packed Singapore Grand Prix.",
+        "thumbnail": {
+          "caption": "SINGAPORE, SINGAPORE - OCTOBER 02: Sergio Perez of Mexico driving the (11) Oracle Red Bull Racing RB18 leads Charles Leclerc of Monaco driving the (16) Ferrari F1-75 during the F1 Grand Prix of Singapore at Marina Bay Street Circuit on October 02, 2022 in Singapore, Singapore. (Photo by Clive Mason/Getty Images,)",
+          "image": {
+            "title": "1429641490",
+            "path": "/content/dam/fom-website/sutton/2022/Singapore/Sunday/1429641490.jpg",
+            "url": "https://www.formula1.com/content/dam/fom-website/sutton/2022/Singapore/Sunday/1429641490.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "circuitSmallImage": {
+    "title": "Singapore.png",
+    "path": "/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Singapore.png",
+    "url": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Singapore.png"
+  },
+  "links": [
+    {
+      "text": "RESULTS",
+      "url": "https://www.formula1.com/en/results.html/2022/races/1133/singapore/race-result.html"
+    },
+    {
+      "text": "HIGHLIGHTS",
+      "url": "https://www.formula1.com/en/latest/article.highlights-watch-the-action-from-the-singapore-grand-prix-as-perez-fends-off.6Zef3aZxxugklhcIHr4hL6.html"
+    }
+  ],
+  "seasonContext": {
+    "id": "4kUSabodBuSKy8I2ce68iW",
+    "contentType": "f1SeasonContext",
+    "createdAt": "2018-05-24T08:30:54.749Z",
+    "updatedAt": "2022-10-02T15:22:59.685Z",
+    "locale": "en",
+    "seasonYear": "2022",
+    "currentOrNextMeetingKey": "1133",
+    "state": "POST-RACE",
+    "eventState": "IDLE",
+    "liveEventId": "1132",
+    "liveTimingsSource": "https://livetiming.formula1.com/signalr",
+    "liveBlog": {
+      "contentType": "atomLiveBlogScribbleLive",
+      "title": "Singapore 2022 Race",
+      "scribbleEventId": "/event/2991657/37480"
+    },
+    "seasonState": "DURING-SEASON",
+    "raceListingOverride": 2022,
+    "driverAndTeamListingOverride": 2022,
+    "timetables": [
+      {
+        "state": "completed",
+        "session": "r",
+        "gmtOffset": "+08:00",
+        "description": "Race",
+        "endTime": "2022-10-02T22:00:00",
+        "startTime": "2022-10-02T20:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p3",
+        "gmtOffset": "+08:00",
+        "description": "Practice 3",
+        "endTime": "2022-10-01T19:00:00",
+        "startTime": "2022-10-01T18:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p2",
+        "gmtOffset": "+08:00",
+        "description": "Practice 2",
+        "endTime": "2022-09-30T22:00:00",
+        "startTime": "2022-09-30T21:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "p1",
+        "gmtOffset": "+08:00",
+        "description": "Practice 1",
+        "endTime": "2022-09-30T19:00:00",
+        "startTime": "2022-09-30T18:00:00"
+      },
+      {
+        "state": "completed",
+        "session": "q",
+        "gmtOffset": "+08:00",
+        "description": "Qualifying",
+        "endTime": "2022-10-01T22:00:00",
+        "startTime": "2022-10-01T21:00:00"
+      }
+    ],
+    "replayBaseUrl": "https://livetiming.formula1.com/static/",
+    "seasonContextUIState": 5
+  },
+  "raceResults": [
+    {
+      "driverTLA": "PER",
+      "driverFirstName": "Sergio",
+      "driverLastName": "Perez",
+      "teamName": "Red Bull Racing",
+      "positionNumber": "1",
+      "raceTime": "2:02:15.238",
+      "teamColourCode": "3671C6",
+      "gapToLeader": "0.0",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png",
+      "driverNameFormat": "FirstNameIsPrimary"
+    },
+    {
+      "driverTLA": "LEC",
+      "driverFirstName": "Charles",
+      "driverLastName": "Leclerc",
+      "teamName": "Ferrari",
+      "positionNumber": "2",
+      "raceTime": "2:02:22.833",
+      "teamColourCode": "F91536",
+      "gapToLeader": "7.595",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png",
+      "driverNameFormat": "FirstNameIsPrimary"
+    },
+    {
+      "driverTLA": "SAI",
+      "driverFirstName": "Carlos",
+      "driverLastName": "Sainz",
+      "teamName": "Ferrari",
+      "positionNumber": "3",
+      "raceTime": "2:02:30.543",
+      "teamColourCode": "F91536",
+      "gapToLeader": "15.305",
+      "driverImage": "https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png",
+      "driverNameFormat": "FirstNameIsPrimary"
+    }
+  ],
+  "race": {
+    "meetingCountryName": "Singapore",
+    "meetingStartDate": "2022-09-30T10:00:00.000Z",
+    "meetingOfficialName": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2022",
+    "meetingEndDate": "2022-10-02T14:00:00.000Z"
+  },
+  "seasonYearImage": "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/year%20icon/2022.png",
+  "sessionLinkSets": {
+    "replayLinks": [
+      {
+        "session": "p1",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-10-02_Singapore_Grand_Prix/2022-09-30_Practice_1/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "p2",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-10-02_Singapore_Grand_Prix/2022-09-30_Practice_2/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "p3",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-10-02_Singapore_Grand_Prix/2022-10-01_Practice_3/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "q",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-10-02_Singapore_Grand_Prix/2022-10-01_Qualifying/",
+        "linkType": "Replay"
+      },
+      {
+        "session": "r",
+        "text": "replay",
+        "url": "https://livetiming.formula1.com/static/2022/2022-10-02_Singapore_Grand_Prix/2022-10-02_Race/",
+        "linkType": "Replay"
+      }
+    ]
+  }
+}
