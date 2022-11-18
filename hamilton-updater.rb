@@ -32,12 +32,12 @@ File.write("#{__dir__}/_config.yml", config.to_yaml)
 
 case raceinfo['state']
 when 'upcoming'
-  answer = "The race hasn't started yet"
+  answer = "The race hasn't started yet\n"
 when 'started'
-  answer = "They're racing now"
+  answer = "They're racing now\n"
 when 'completed'
   winner = race_status['raceResults'].select { |hash| hash['positionNumber'] == '1' }.first
-  answer = winner['driverLastName'].downcase == 'hamilton' ? 'YES' : 'NO'
+  answer = winner['driverLastName'].downcase == 'hamilton' ? "YES\n" : "NO\n"
 end
 File.write("#{__dir__}/index.md", "# #{answer}")
 File.write("#{__dir__}/api_results/#{Time.now.strftime('%Y%m%d-%H%M%S')}.json", JSON.pretty_generate(race_status))
