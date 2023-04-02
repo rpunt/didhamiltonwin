@@ -1,6 +1,6 @@
 {
   "recommendations": [
     "dedsec727.jekyll-run",
-    "cschleiden.vscode-github-actions"
+    "github.vscode-github-actions"
   ]
 }
