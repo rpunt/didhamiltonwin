@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'httparty'
 gem 'git'
+gem 'httparty'
