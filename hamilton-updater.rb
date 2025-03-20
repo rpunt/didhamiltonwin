@@ -10,7 +10,7 @@ g.checkout(branch)
 # g.pull
 
 headers = {
-  'apiKey' => 'qPgPPRJyGCIPxFT3el4MF7thXHyJCzAP',
+  'apiKey' => 'xZ7AOODSjiQadLsIYWefQrpCSQVDbHGC',
   'locale' => 'en'
 }
 
