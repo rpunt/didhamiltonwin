@@ -3,6 +3,9 @@
 
 require 'httparty'
 require 'git'
+require 'json'
+require 'yaml'
+require 'time'
 
 branch = 'main'
 g = Git.open(__dir__)
